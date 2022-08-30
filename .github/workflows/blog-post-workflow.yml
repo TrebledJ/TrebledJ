@@ -14,3 +14,6 @@ jobs:
               with: 
                 max_post_count: "5"
                 feed_list: "https://trebledj.github.io/feed.xml"
+                template: "$newline - $randomEmoji(🔥,🚀,🌞,📈,😱,😮,🙃) <a href='$url' target='_blank'>$title</a> | 🏷️ **Tags**: $categories | 📅 $date"
+                categories_template: "<a href='https://trebled.github.io/tags/$category' target='_blank'>$category</a>"
+                date_format: "yyyy-mm-dd"
