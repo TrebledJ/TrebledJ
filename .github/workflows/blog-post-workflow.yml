@@ -16,7 +16,7 @@ jobs:
                 feed_list: "https://trebledj.github.io/feed.xml"
 #                 template: "$newline - $randomEmoji(🔥,🚀,🌞,📈,😱,😮,🙃) <a href='$url' target='_blank'>$title</a> | 🏷️ **Tags**: $categories | 📅 $date"
                 template: "<tr><td>$randomEmoji(🔥,🚀,🌞,📈,😱,😮,🙃) <a href='$url' target='_blank'>$title</a></td><td>$categories</td><td>$date</td></tr>"
-                categories_template: "<a href='https://trebledj.github.io/tags/$category' target='_blank'>$category</a>   "
+                categories_template: "<a href='https://trebledj.github.io/tags/$category' target='_blank'>$category</a> $newline"
                 date_format: "yyyy-mm-dd"
                 
     update-readme-stackoverflow-activity: 
