@@ -111,4 +111,9 @@ You can also find me lurking around on Discord: TrebledJ#7595.
 
 ## Recent Posts
 <!-- BLOG-POST-LIST:START -->
+- [Space Penguin](/posts/space-penguin/)
+- [AOC 2021 Day 16 - Parser Combinator Fun](/posts/aoc-2021-day-16/)
+- [AOC 2021 Haskell Utils](/posts/aoc-2021-haskell-utils/)
+- [Advent of Code 2021](/posts/aoc-2021/)
+- [TAMUctf 2022 – CTF Sim](/posts/ctf-sim/)
 <!-- BLOG-POST-LIST:END -->
