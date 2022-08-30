@@ -111,12 +111,11 @@ You can also find me lurking around on Discord: TrebledJ#7595.
 
 ## Recent Posts
 <!-- BLOG-POST-LIST:START -->
-- [Space Penguin](https://trebledj.github.io/posts/space-penguin/)
-- [AOC 2021 Day 16 - Parser Combinator Fun](https://trebledj.github.io/posts/aoc-2021-day-16/)
-- [AOC 2021 Haskell Utils](https://trebledj.github.io/posts/aoc-2021-haskell-utils/)
-- [Advent of Code 2021](https://trebledj.github.io/posts/aoc-2021/)
-- [TAMUctf 2022 – CTF Sim](https://trebledj.github.io/posts/ctf-sim/)
-<!-- BLOG-POST-LIST:END -->
+ - 😱 <a href='https://trebledj.github.io/posts/space-penguin/' target='_blank'>Space Penguin</a> | 🏷️ **Tags**: <a href='https://trebled.github.io/tags/music' target='_blank'>music</a><a href='https://trebled.github.io/tags/electronic' target='_blank'>electronic</a> | 📅 2022-08-26
+ - 😮 <a href='https://trebledj.github.io/posts/aoc-2021-day-16/' target='_blank'>AOC 2021 Day 16 - Parser Combinator Fun</a> | 🏷️ **Tags**: <a href='https://trebled.github.io/tags/aoc' target='_blank'>aoc</a><a href='https://trebled.github.io/tags/haskell' target='_blank'>haskell</a><a href='https://trebled.github.io/tags/programming' target='_blank'>programming</a><a href='https://trebled.github.io/tags/writeup' target='_blank'>writeup</a> | 📅 2022-08-23
+ - 😱 <a href='https://trebledj.github.io/posts/aoc-2021-haskell-utils/' target='_blank'>AOC 2021 Haskell Utils</a> | 🏷️ **Tags**: <a href='https://trebled.github.io/tags/aoc' target='_blank'>aoc</a><a href='https://trebled.github.io/tags/haskell' target='_blank'>haskell</a><a href='https://trebled.github.io/tags/programming' target='_blank'>programming</a> | 📅 2022-08-09
+ - 🌞 <a href='https://trebledj.github.io/posts/aoc-2021/' target='_blank'>Advent of Code 2021</a> | 🏷️ **Tags**: <a href='https://trebled.github.io/tags/aoc' target='_blank'>aoc</a><a href='https://trebled.github.io/tags/experience' target='_blank'>experience</a><a href='https://trebled.github.io/tags/haskell' target='_blank'>haskell</a><a href='https://trebled.github.io/tags/rust' target='_blank'>rust</a><a href='https://trebled.github.io/tags/python' target='_blank'>python</a> | 📅 2022-07-23
+ - 😱 <a href='https://trebledj.github.io/posts/ctf-sim/' target='_blank'>TAMUctf 2022 – CTF Sim</a> | 🏷️ **Tags**: <a href='https://trebled.github.io/tags/ctf' target='_blank'>ctf</a><a href='https://trebled.github.io/tags/pwn' target='_blank'>pwn</a><a href='https://trebled.github.io/tags/writeup' target='_blank'>writeup</a><a href='https://trebled.github.io/tags/python' target='_blank'>python</a><a href='https://trebled.github.io/tags/cpp' target='_blank'>cpp</a><a href='https://trebled.github.io/tags/programming' target='_blank'>programming</a> | 📅 2022-04-24<!-- BLOG-POST-LIST:END -->
 
 
 ## Recent StackOverflow Activity
