@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 
 ┬──┬ ノ( ゜-゜ノ)
 
-Hi! I'm a final year HKUST mathematics undergrad. I'm passionate about [programming](https://trebledj.github.io/tags/programming) and [composing music](https://trebledj.github.io/tags/music). I'm also interested in a wide range of fields: [robotics](https://trebledj.github.io/tags/robotics), [cybersecurity](https://trebledj.github.io/tags/ctf), application development, and software engineering in general. I'm excited about developing applications to solve problems and provide an educational interface for learners.
+Hi! I'm a final year HKUST mathematics undergrad. I'm passionate about <a href="https://trebledj.github.io/tags/programming" target="_blank">programming</a> and <a href="https://trebledj.github.io/tags/music" target="_blank">composing music</a>. I'm also interested in a wide range of fields: <a href="https://trebledj.github.io/tags/robotics" target="_blank">robotics</a>, <a href="https://trebledj.github.io/tags/ctf" target="_blank">cybersecurity</a>, application development, and software engineering in general. I'm excited about developing applications to solve problems and provide an educational interface for learners.
 
-- 🔭 I’m currently working on [various][ms-plugin-1] [MuseScore plugins][ms-plugin-2] in JS/QML, documenting my [university experiences/projects][ust], and composing [variations on a theme][variations].
+- 🚀 I’m currently working on [various][ms-plugin-1] [MuseScore plugins][ms-plugin-2] in JS/QML, documenting my [university experiences/projects][ust], and composing [variations on a theme][variations].
 - 🌱 I’m currently learning ML and Rust. ᕕ( ᐛ )ᕗ
 - 💬 Ask me about C++, Python, programming, and music.
 - 📝 I declutter my mind through writing on [https://trebledj.github.io/](https://trebledj.github.io/).
-- ⚡ Fun fact: I like pineapple on pizza.
+- ⚡ Fun fact: I like dark mode and pineapple on pizza.
 <!-- - 👯 I’m looking to collaborate on collaborate-project -->
 <!-- - 🤝 I’m looking for help with help-project -->
 <!-- - 📫 How to reach me: ~~you can't, jk.~~ discord, email, linkedin. -->
@@ -38,11 +38,25 @@ Are you a recruiter? This page is probably pretty boring. Check out my [web CV](
 
 ## Social
 <p align="left">
-<a href="https://stackoverflow.com/users/10239789" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10239789" height="30" width="40" /></a>
-<a href="/https://trebledj.github.io/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://trebledj.github.io/feed.xml" height="30" width="40" /></a>
+<!-- GitHub -->
+<a href="https://github.com/TrebledJ" target="_blank"><img align="center" src="https://www.svgrepo.com/show/341847/github.svg" alt="Personal Site" height="40" width="40" /></a>
+<!-- StackOverflow -->
+<a href="https://stackoverflow.com/users/10239789" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10239789" height="30" width="40" /></a>
+<!-- Codingame -->
+<a href="https://www.codingame.com/profile/8444100ecb9723c1ec542346b0630aaa2821532" target="_blank"><img align="center" src="https://raw.githubusercontent.com/TrebledJ/trebledj.github.io/master/assets/img/logos/codingame.png" alt="Codingame" height="40" width="40" /></a>
+<!-- SoundCloud -->
+<a href="https://soundcloud.com/trebledj" target="_blank"><img align="center" src="https://www.svgrepo.com/show/35013/soundcloud.svg" alt="SoundCloud" height="35" width="40" /></a>
+<!-- Spotify -->
+<a href="https://open.spotify.com/user/24i9exez29k1jr85olljuy94g?si=4213a229649f4ceb" target="_blank"><img align="center" src="https://www.svgrepo.com/show/355256/spotify.svg" alt="Spotify" height="40" width="40" /></a>
+<!-- MuseScore -->
+<a href="https://musescore.com/user/20636901" target="_blank"><img align="center" src="https://raw.githubusercontent.com/TrebledJ/trebledj.github.io/master/assets/img/logos/musescore.png" alt="MuseScore" height="40" width="40" /></a>
+<!-- Email -->
+<a href="mailto:trebledjjj@gmail.com" target="_blank"><img align="center" src="https://www.svgrepo.com/show/237958/email-mail.svg" alt="10239789" height="35" width="40" /></a>
+<!-- RSS -->
+<a href="/https://trebledj.github.io/feed.xml" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://trebledj.github.io/feed.xml" height="25" width="25" /></a>
 </p>
 
-Find me lurking in places on Discord: TrebledJ#7595.
+You can also find me lurking around on Discord: TrebledJ#7595.
 
 ## Skills
 ### Languages
