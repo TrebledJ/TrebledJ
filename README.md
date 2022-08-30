@@ -117,3 +117,8 @@ You can also find me lurking around on Discord: TrebledJ#7595.
 - [Advent of Code 2021](https://trebledj.github.io/posts/aoc-2021/)
 - [TAMUctf 2022 – CTF Sim](https://trebledj.github.io/posts/ctf-sim/)
 <!-- BLOG-POST-LIST:END -->
+
+
+## Recent StackOverflow Activity
+<!-- STACKOVERFLOW:START -->
+<!-- STACKOVERFLOW:END -->
