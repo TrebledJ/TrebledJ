@@ -5,7 +5,7 @@ on:
         - cron: '0 * * * *'
 
 jobs: 
-    update-readme-with-blog: 
+    update-readme-blog-posts: 
         name: Update this repo's README with latest blog posts
         runs-on: ubuntu-latest
         steps: 
@@ -17,3 +17,21 @@ jobs:
                 template: "$newline - $randomEmoji(🔥,🚀,🌞,📈,😱,😮,🙃) <a href='$url' target='_blank'>$title</a> | 🏷️ **Tags**: $categories | 📅 $date"
                 categories_template: "<a href='https://trebled.github.io/tags/$category' target='_blank'>$category</a>"
                 date_format: "yyyy-mm-dd"
+                
+    update-readme-stackoverflow-activity: 
+        name: Update this repo's README with latest stackoverflow activity
+        runs-on: ubuntu-latest
+        steps: 
+            - uses: actions/checkout@v2
+            - uses: gautamkrishnar/blog-post-workflow@master
+              with: 
+                max_post_count: "5"
+                comment_tag_name: "STACKOVERFLOW"
+                commit_message: "Updated readme with the latest stackOverflow data"
+                feed_list: "https://stackoverflow.com/feeds/user/10239789"
+                filter_comments: "stackoverflow/Comment by $author/"
+#                 template: "$newline - $randomEmoji(🔥,🚀,🌞,📈,😱,😮,🙃) <a href='$url' target='_blank'>$title</a> | 🏷️ **Tags**: $categories | 📅 $date"
+#                 categories_template: "<a href='https://trebled.github.io/tags/$category' target='_blank'>$category</a>"
+#                 date_format: "yyyy-mm-dd"
+                
+                
