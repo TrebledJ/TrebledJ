@@ -31,7 +31,7 @@ Hi! I'm a final year HKUST mathematics undergrad. I'm passionate about <a href="
 
 [ms-plugin-1]: https://github.com/TrebledJ/musescore-todo-list
 [ms-plugin-2]: https://github.com/TrebledJ/musescore-navigation
-[ust]: https://trebledj.github.io/posts/hkust
+[ust]: https://trebledj.github.io/tags/hkust
 [variations]: https://en.wikipedia.org/wiki/Variation_(music)
 
 Are you a recruiter? This page is probably pretty boring. Check out my [web CV](https://trebledj.github.io/profile/) instead!
