@@ -2,7 +2,7 @@ name: Latest blog post workflow
 on:
     workflow_dispatch:
     schedule:
-        - cron: '0 * * * *'
+        - cron: '0 */6 * * *'
 
 jobs: 
     update-readme-blog-posts: 
@@ -14,7 +14,6 @@ jobs:
               with: 
                 max_post_count: "5"
                 feed_list: "https://trebledj.github.io/feed.xml"
-#                 template: "$newline - $randomEmoji(🔥,🚀,🌞,📈,😱,😮,🙃) <a href='$url' target='_blank'>$title</a> | 🏷️ **Tags**: $categories | 📅 $date"
                 template: "<tr><td>$randomEmoji(🔥,🚀,🌞,📈,😱,😮,🙃) <a href='$url' target='_blank'>$title</a></td><td>$categories</td><td>$date</td></tr>"
                 categories_template: "<a href='https://trebledj.github.io/tags/$category' target='_blank'>$category</a> $newline"
                 date_format: "yyyy-mm-dd"
@@ -31,8 +30,5 @@ jobs:
                 commit_message: "Updated readme with the latest stackOverflow data"
                 feed_list: "https://stackoverflow.com/feeds/user/10239789"
                 filter_comments: "stackoverflow/Comment by $author/"
-#                 template: "$newline - $randomEmoji(🔥,🚀,🌞,📈,😱,😮,🙃) <a href='$url' target='_blank'>$title</a> | 🏷️ **Tags**: $categories | 📅 $date"
-#                 categories_template: "<a href='https://trebled.github.io/tags/$category' target='_blank'>$category</a>"
-#                 date_format: "yyyy-mm-dd"
                 
                 
