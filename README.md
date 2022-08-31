@@ -112,7 +112,7 @@ You can also find me lurking around on Discord: TrebledJ#7595.
 ## Recent Posts
 <table>
   <tr><th>📄 Post</th><th>🏷️ Tags</th><th>📆 Date</th></tr>
-<!-- BLOG-POST-LIST:START --><tr><td>😱 <a href='https://trebledj.github.io/posts/space-penguin/' target='_blank'>Space Penguin</a></td><td><a href='https://trebledj.github.io/tags/music' target='_blank'>music</a> 
+<!-- BLOG-POST-LIST:START --><tr><td>😮 <a href='https://trebledj.github.io/posts/space-penguin/' target='_blank'>Space Penguin</a></td><td><a href='https://trebledj.github.io/tags/music' target='_blank'>music</a> 
 <a href='https://trebledj.github.io/tags/electronic' target='_blank'>electronic</a> 
 </td><td>2022-08-26</td></tr><tr><td>😮 <a href='https://trebledj.github.io/posts/aoc-2021-day-16/' target='_blank'>AOC 2021 Day 16 - Parser Combinator Fun</a></td><td><a href='https://trebledj.github.io/tags/aoc' target='_blank'>aoc</a> 
 <a href='https://trebledj.github.io/tags/haskell' target='_blank'>haskell</a> 
