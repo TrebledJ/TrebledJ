@@ -138,9 +138,9 @@ You can also find me lurking around on Discord: TrebledJ#7595.
 
 ## Recent StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by TrebledJ for Is Python&#39;s flexibility in the types of list elements a consequence of dynamic typing?](https://stackoverflow.com/questions/73452911/is-pythons-flexibility-in-the-types-of-list-elements-a-consequence-of-dynamic-t/73553996#73553996)
 - [Answer by TrebledJ for Haskell recursive program](https://stackoverflow.com/questions/73550160/haskell-recursive-program/73550469#73550469)
 - [Answer by TrebledJ for Haskell Illegal term-level use of the type constructor &#39;Int&#39;](https://stackoverflow.com/questions/73550138/haskell-illegal-term-level-use-of-the-type-constructor-int/73550413#73550413)
 - [Answer by TrebledJ for How to list all files from resources folder with scala](https://stackoverflow.com/questions/66722366/how-to-list-all-files-from-resources-folder-with-scala/73045690#73045690)
 - [Answer by TrebledJ for How to set `sf::Drawable` positions sfml](https://stackoverflow.com/questions/72939306/how-to-set-sfdrawable-positions-sfml/72940705#72940705)
-- [Answer by TrebledJ for How to checkout a branch with submodule from a branch without it](https://stackoverflow.com/questions/56466231/how-to-checkout-a-branch-with-submodule-from-a-branch-without-it/70616187#70616187)
 <!-- STACKOVERFLOW:END -->
