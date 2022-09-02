@@ -34,8 +34,6 @@ Hi! I'm a final year HKUST mathematics undergrad. I'm passionate about <a href="
 [ust]: https://trebledj.github.io/tags/hkust
 [variations]: https://en.wikipedia.org/wiki/Variation_(music)
 
-Are you a recruiter? This page is probably pretty boring. Check out my [web CV](https://trebledj.github.io/profile/) instead!
-
 ## Social
 <p align="left">
 <!-- GitHub -->
