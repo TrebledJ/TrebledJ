@@ -13,17 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Johnathan</h1>
-<h3 align="center">This subheading is false. (╯°□°）╯︵ ┻━┻</h3>
+<h1 align="center">(づ◔ ͜ʖ◔)づ Johnathan's GitHubヽ(^ᴗ^ヽ)</h1>
 
-┬──┬ ノ( ゜-゜ノ)
-
-Hi! I'm a final year HKUST mathematics undergrad. I'm passionate about <a href="https://trebledj.github.io/tags/programming" target="_blank">programming</a> and <a href="https://trebledj.github.io/tags/music" target="_blank">composing music</a>. I'm also interested in a wide range of fields: <a href="https://trebledj.github.io/tags/robotics" target="_blank">robotics</a>, <a href="https://trebledj.github.io/tags/ctf" target="_blank">cybersecurity</a>, application development, and software engineering in general. I'm excited about developing applications to solve problems and provide an educational interface for learners.
+Hi, thanks for dropping by! I'm a final year HKUST mathematics undergrad. I'm passionate about <a href="https://trebledj.github.io/tags/programming" target="_blank">programming</a> and <a href="https://trebledj.github.io/tags/music" target="_blank">composing music</a>. I'm also interested in a wide range of fields: <a href="https://trebledj.github.io/tags/robotics" target="_blank">robotics</a>, <a href="https://trebledj.github.io/tags/ctf" target="_blank">cybersecurity</a>, <a href="https://trebledj.github.io/tags/apps" target="_blank">application development</a>, and software engineering in general. I'm excited about developing applications to solve problems and provide an educational interface for learners.
 
 - 🚀 I’m currently working on [various][ms-plugin-1] [MuseScore plugins][ms-plugin-2] in JS/QML, documenting my [university experiences/projects][ust], and composing [variations on a theme][variations].
 - 🌱 I’m currently learning ML and Rust. ᕕ( ᐛ )ᕗ
 - 💬 Ask me about C++, Python, programming, and music.
-- 📝 I declutter my mind through writing on [https://trebledj.github.io/](https://trebledj.github.io/).
+- 📝 I write tutorials, reflections, and sharings on [https://trebledj.github.io/](https://trebledj.github.io/).
 - ⚡ Fun fact: I like dark mode and pineapple on pizza.
 <!-- - 👯 I’m looking to collaborate on collaborate-project -->
 <!-- - 🤝 I’m looking for help with help-project -->
