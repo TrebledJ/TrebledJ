@@ -107,28 +107,28 @@ You can also find me lurking around on Discord: TrebledJ#7595.
 ## Recent Posts
 <table>
   <tr><th>📄 Post</th><th>🏷️ Tags</th><th>📆 Date</th></tr>
-<!-- BLOG-POST-LIST:START --><tr><td>😱 <a href='https://trebledj.github.io/posts/musescore-navigation-plugins/' target='_blank'>MuseScore Navigation Plugins</a></td><td><a href='https://trebledj.github.io/tags/project' target='_blank'>project</a> 
+<!-- BLOG-POST-LIST:START --><tr><td>😱 <a href='https://trebledj.github.io/posts/hkust-robotics-team/' target='_blank'>The HKUST Robotics Team</a></td><td><a href='https://trebledj.github.io/tags/robotics' target='_blank'>robotics</a> 
+<a href='https://trebledj.github.io/tags/experience' target='_blank'>experience</a> 
+<a href='https://trebledj.github.io/tags/hkust' target='_blank'>hkust</a> 
+</td><td>2022-09-21</td></tr><tr><td>😱 <a href='https://trebledj.github.io/posts/musescore-navigation-plugins/' target='_blank'>MuseScore Navigation Plugins</a></td><td><a href='https://trebledj.github.io/tags/project' target='_blank'>project</a> 
 <a href='https://trebledj.github.io/tags/qml' target='_blank'>qml</a> 
 <a href='https://trebledj.github.io/tags/js' target='_blank'>js</a> 
 <a href='https://trebledj.github.io/tags/apps' target='_blank'>apps</a> 
 <a href='https://trebledj.github.io/tags/qt' target='_blank'>qt</a> 
 <a href='https://trebledj.github.io/tags/music' target='_blank'>music</a> 
-</td><td>2022-09-10</td></tr><tr><td>😱 <a href='https://trebledj.github.io/posts/space-penguin/' target='_blank'>Space Penguin</a></td><td><a href='https://trebledj.github.io/tags/composition' target='_blank'>composition</a> 
+</td><td>2022-09-10</td></tr><tr><td>📈 <a href='https://trebledj.github.io/posts/space-penguin/' target='_blank'>Space Penguin</a></td><td><a href='https://trebledj.github.io/tags/composition' target='_blank'>composition</a> 
 <a href='https://trebledj.github.io/tags/electronic' target='_blank'>electronic</a> 
 <a href='https://trebledj.github.io/tags/music' target='_blank'>music</a> 
-</td><td>2022-08-26</td></tr><tr><td>📈 <a href='https://trebledj.github.io/posts/aoc-2021-day-24/' target='_blank'>AOC 2021 Day 24 – No U</a></td><td><a href='https://trebledj.github.io/tags/aoc' target='_blank'>aoc</a> 
+</td><td>2022-08-26</td></tr><tr><td>🌞 <a href='https://trebledj.github.io/posts/aoc-2021-day-24/' target='_blank'>AOC 2021 Day 24 – No U</a></td><td><a href='https://trebledj.github.io/tags/aoc' target='_blank'>aoc</a> 
 <a href='https://trebledj.github.io/tags/python' target='_blank'>python</a> 
 <a href='https://trebledj.github.io/tags/reverse' target='_blank'>reverse</a> 
 <a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
 <a href='https://trebledj.github.io/tags/writeup' target='_blank'>writeup</a> 
-</td><td>2022-08-25</td></tr><tr><td>🌞 <a href='https://trebledj.github.io/posts/aoc-2021-day-16/' target='_blank'>AOC 2021 Day 16 - Parser Combinator Fun</a></td><td><a href='https://trebledj.github.io/tags/aoc' target='_blank'>aoc</a> 
+</td><td>2022-08-25</td></tr><tr><td>📈 <a href='https://trebledj.github.io/posts/aoc-2021-day-16/' target='_blank'>AOC 2021 Day 16 - Parser Combinator Fun</a></td><td><a href='https://trebledj.github.io/tags/aoc' target='_blank'>aoc</a> 
 <a href='https://trebledj.github.io/tags/haskell' target='_blank'>haskell</a> 
 <a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
 <a href='https://trebledj.github.io/tags/writeup' target='_blank'>writeup</a> 
-</td><td>2022-08-23</td></tr><tr><td>📈 <a href='https://trebledj.github.io/posts/aoc-2021-haskell-utils/' target='_blank'>AOC 2021 Haskell Utils</a></td><td><a href='https://trebledj.github.io/tags/aoc' target='_blank'>aoc</a> 
-<a href='https://trebledj.github.io/tags/haskell' target='_blank'>haskell</a> 
-<a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
-</td><td>2022-08-09</td></tr><!-- BLOG-POST-LIST:END -->
+</td><td>2022-08-23</td></tr><!-- BLOG-POST-LIST:END -->
 </table>
 
 
