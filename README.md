@@ -135,9 +135,9 @@ You can also find me lurking around on Discord: TrebledJ#7595.
 
 ## Recent StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by TrebledJ for Converting time strings to integers in python](https://stackoverflow.com/questions/74087667/converting-time-strings-to-integers-in-python/74087753#74087753)
 - [Answer by TrebledJ for Qml Vertical Text Orientation](https://stackoverflow.com/questions/73803455/qml-vertical-text-orientation/73803594#73803594)
 - [Answer by TrebledJ for How can I write two letters with many spaces between them in Python?](https://stackoverflow.com/questions/73684125/how-can-i-write-two-letters-with-many-spaces-between-them-in-python/73684231#73684231)
 - [Answer by TrebledJ for How to combine views::enumerate and views::filter?](https://stackoverflow.com/questions/73680053/how-to-combine-viewsenumerate-and-viewsfilter/73680446#73680446)
 - [Answer by TrebledJ for How to remove lines of a textfile with a boolean as a rule in python?](https://stackoverflow.com/questions/73586025/how-to-remove-lines-of-a-textfile-with-a-boolean-as-a-rule-in-python/73586172#73586172)
-- [Answer by TrebledJ for Is Python&#39;s flexibility in the types of list elements a consequence of dynamic typing?](https://stackoverflow.com/questions/73452911/is-pythons-flexibility-in-the-types-of-list-elements-a-consequence-of-dynamic-t/73553996#73553996)
 <!-- STACKOVERFLOW:END -->
