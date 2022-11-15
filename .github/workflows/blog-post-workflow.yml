@@ -13,7 +13,7 @@ jobs:
             - uses: gautamkrishnar/blog-post-workflow@master
               with: 
                 max_post_count: "5"
-                feed_list: "https://trebledj.github.io/feed.xml"
+                feed_list: "https://trebledj.github.io/feeds/posts.xml"
                 template: "<tr><td>$randomEmoji(🔥,🚀,🌞,📈,😱,🎯) <a href='$url' target='_blank'>$title</a></td><td>$categories</td><td>$date</td></tr>"
                 categories_template: "<a href='https://trebledj.github.io/tags/$category' target='_blank'>$category</a> $newline"
                 date_format: "yyyy-mm-dd"
