@@ -107,31 +107,7 @@ You can also find me lurking around on Discord: TrebledJ#7595.
 ## Recent Posts
 <table>
   <tr><th>📄 Post</th><th>🏷️ Tags</th><th>📆 Date</th></tr>
-<!-- BLOG-POST-LIST:START --><tr><td>😱 <a href='https://trebledj.github.io/posts/hkcert-2022-base64-encoder/' target='_blank'>HKCERT 2022 – Base64 Encryption</a></td><td><a href='https://trebledj.github.io/tags/ctf' target='_blank'>ctf</a> 
-<a href='https://trebledj.github.io/tags/cryptography' target='_blank'>cryptography</a> 
-<a href='https://trebledj.github.io/tags/writeup' target='_blank'>writeup</a> 
-<a href='https://trebledj.github.io/tags/python' target='_blank'>python</a> 
-<a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
-</td><td>2022-11-14</td></tr><tr><td>😱 <a href='https://trebledj.github.io/posts/implicit-parameters-in-scala-and-haskell/' target='_blank'>Implicit Parameters in Scala and Haskell</a></td><td><a href='https://trebledj.github.io/tags/tutorial' target='_blank'>tutorial</a> 
-<a href='https://trebledj.github.io/tags/scala' target='_blank'>scala</a> 
-<a href='https://trebledj.github.io/tags/haskell' target='_blank'>haskell</a> 
-<a href='https://trebledj.github.io/tags/cpp' target='_blank'>cpp</a> 
-<a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
-</td><td>2022-10-15</td></tr><tr><td>📈 <a href='https://trebledj.github.io/posts/ductf-2022-ezpz-rev/' target='_blank'>DownUnderCTF 2022 – ezpz-rev</a></td><td><a href='https://trebledj.github.io/tags/ctf' target='_blank'>ctf</a> 
-<a href='https://trebledj.github.io/tags/reverse' target='_blank'>reverse</a> 
-<a href='https://trebledj.github.io/tags/writeup' target='_blank'>writeup</a> 
-<a href='https://trebledj.github.io/tags/python' target='_blank'>python</a> 
-<a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
-</td><td>2022-09-28</td></tr><tr><td>🌞 <a href='https://trebledj.github.io/posts/hkust-robotics-team/' target='_blank'>The HKUST Robotics Team</a></td><td><a href='https://trebledj.github.io/tags/robotics' target='_blank'>robotics</a> 
-<a href='https://trebledj.github.io/tags/experience' target='_blank'>experience</a> 
-<a href='https://trebledj.github.io/tags/hkust' target='_blank'>hkust</a> 
-</td><td>2022-09-21</td></tr><tr><td>📈 <a href='https://trebledj.github.io/posts/musescore-navigation-plugins/' target='_blank'>MuseScore Navigation Plugins</a></td><td><a href='https://trebledj.github.io/tags/project' target='_blank'>project</a> 
-<a href='https://trebledj.github.io/tags/qml' target='_blank'>qml</a> 
-<a href='https://trebledj.github.io/tags/js' target='_blank'>js</a> 
-<a href='https://trebledj.github.io/tags/apps' target='_blank'>apps</a> 
-<a href='https://trebledj.github.io/tags/qt' target='_blank'>qt</a> 
-<a href='https://trebledj.github.io/tags/music' target='_blank'>music</a> 
-</td><td>2022-09-10</td></tr><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><tr><td>😱 <a href='https://trebledj.github.io/posts/hkcert-2022-cpp-harming-website/' target='_blank'>HKCERT 2022 – C++harming Website</a></td><td></td><td>2022-11-15</td></tr><tr><td>😱 <a href='https://trebledj.github.io/posts/hkcert-2022-base64-encryption/' target='_blank'>HKCERT 2022 – Base64 Encryption</a></td><td></td><td>2022-11-14</td></tr><tr><td>📈 <a href='https://trebledj.github.io/posts/implicit-parameters-in-scala-and-haskell/' target='_blank'>Implicit Parameters in Scala and Haskell</a></td><td></td><td>2022-10-15</td></tr><tr><td>🌞 <a href='https://trebledj.github.io/posts/ductf-2022-ezpz-rev/' target='_blank'>DownUnderCTF 2022 – ezpz-rev</a></td><td></td><td>2022-09-28</td></tr><tr><td>📈 <a href='https://trebledj.github.io/posts/hkust-robotics-team/' target='_blank'>The HKUST Robotics Team</a></td><td></td><td>2022-09-21</td></tr><!-- BLOG-POST-LIST:END -->
 </table>
 
 
