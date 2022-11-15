@@ -48,7 +48,7 @@ Hi, thanks for dropping by! I'm a final year HKUST mathematics undergrad. I'm pa
 <!-- Email -->
 <a href="mailto:trebledjjj@gmail.com" target="_blank"><img align="center" src="https://www.svgrepo.com/show/237958/email-mail.svg" alt="10239789" height="35" width="40" /></a>
 <!-- RSS -->
-<a href="/https://trebledj.github.io/feed.xml" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://trebledj.github.io/feed.xml" height="25" width="25" /></a>
+<a href="/https://trebledj.github.io/feeds/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://trebledj.github.io/feed.xml" height="25" width="25" /></a>
 </p>
 
 You can also find me lurking around on Discord: TrebledJ#7595.
