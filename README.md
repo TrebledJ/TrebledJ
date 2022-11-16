@@ -111,13 +111,10 @@ You can also find me lurking around on Discord: TrebledJ#7595.
 <a href='https://trebledj.github.io/tags/reverse' target='_blank'>reverse</a> 
 <a href='https://trebledj.github.io/tags/writeup' target='_blank'>writeup</a> 
 <a href='https://trebledj.github.io/tags/cpp' target='_blank'>cpp</a> 
-<a href='https://trebledj.github.io/tags/python' target='_blank'>python</a> 
-<a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
 </td><td>2022-11-15</td></tr><tr><td>😱 <a href='https://trebledj.github.io/posts/hkcert-2022-base64-encryption/' target='_blank'>HKCERT CTF 2022 – Base64 Encryption</a></td><td><a href='https://trebledj.github.io/tags/ctf' target='_blank'>ctf</a> 
 <a href='https://trebledj.github.io/tags/cryptography' target='_blank'>cryptography</a> 
 <a href='https://trebledj.github.io/tags/writeup' target='_blank'>writeup</a> 
 <a href='https://trebledj.github.io/tags/python' target='_blank'>python</a> 
-<a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
 </td><td>2022-11-14</td></tr><tr><td>📈 <a href='https://trebledj.github.io/posts/implicit-parameters-in-scala-and-haskell/' target='_blank'>Implicit Parameters in Scala and Haskell</a></td><td><a href='https://trebledj.github.io/tags/tutorial' target='_blank'>tutorial</a> 
 <a href='https://trebledj.github.io/tags/scala' target='_blank'>scala</a> 
 <a href='https://trebledj.github.io/tags/haskell' target='_blank'>haskell</a> 
