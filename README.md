@@ -134,9 +134,9 @@ You can also find me lurking around on Discord: TrebledJ#7595.
 
 ## Recent StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by TrebledJ for ::tolower using std::transform](https://stackoverflow.com/questions/74534956/tolower-using-stdtransform/74535040#74535040)
+- [Answer by TrebledJ for Why is the output not right even tho im using &#39;long&#39; data type here?](https://stackoverflow.com/questions/74534756/why-is-the-output-not-right-even-tho-im-using-long-data-type-here/74534809#74534809)
+- [Answer by TrebledJ for Deleting items from QT&#39;s QListWidget leading to undeletion/corruption of other entries](https://stackoverflow.com/questions/74534510/deleting-items-from-qts-qlistwidget-leading-to-undeletion-corruption-of-other-e/74534683#74534683)
 - [Answer by TrebledJ for Converting time strings to integers in python](https://stackoverflow.com/questions/74087667/converting-time-strings-to-integers-in-python/74087753#74087753)
 - [Answer by TrebledJ for Qml Vertical Text Orientation](https://stackoverflow.com/questions/73803455/qml-vertical-text-orientation/73803594#73803594)
-- [Answer by TrebledJ for How can I write two letters with many spaces between them in Python?](https://stackoverflow.com/questions/73684125/how-can-i-write-two-letters-with-many-spaces-between-them-in-python/73684231#73684231)
-- [Answer by TrebledJ for How to combine views::enumerate and views::filter?](https://stackoverflow.com/questions/73680053/how-to-combine-viewsenumerate-and-viewsfilter/73680446#73680446)
-- [Answer by TrebledJ for How to remove lines of a textfile with a boolean as a rule in python?](https://stackoverflow.com/questions/73586025/how-to-remove-lines-of-a-textfile-with-a-boolean-as-a-rule-in-python/73586172#73586172)
 <!-- STACKOVERFLOW:END -->
