@@ -107,28 +107,30 @@ You can also find me lurking around on Discord: TrebledJ#7595.
 ## Recent Posts
 <table>
   <tr><th>📄 Post</th><th>🏷️ Tags</th><th>📆 Date</th></tr>
-<!-- BLOG-POST-LIST:START --><tr><td>😱 <a href='https://trebledj.github.io/posts/hkcert-2022-cpp-harming-website/' target='_blank'>HKCERT CTF 2022 – C++harming Website</a></td><td><a href='https://trebledj.github.io/tags/ctf' target='_blank'>ctf</a> 
+<!-- BLOG-POST-LIST:START --><tr><td>😱 <a href='https://trebledj.github.io/posts/aoc-2021-day-22/' target='_blank'>AOC 2021 Day 22 - Reactor Reboot</a></td><td><a href='https://trebledj.github.io/tags/aoc' target='_blank'>aoc</a> 
+<a href='https://trebledj.github.io/tags/rust' target='_blank'>rust</a> 
+<a href='https://trebledj.github.io/tags/mathematics' target='_blank'>mathematics</a> 
+<a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
+<a href='https://trebledj.github.io/tags/writeup' target='_blank'>writeup</a> 
+</td><td>2022-12-02</td></tr><tr><td>😱 <a href='https://trebledj.github.io/posts/hkcert-2022-cpp-harming-website/' target='_blank'>HKCERT CTF 2022 – C++harming Website</a></td><td><a href='https://trebledj.github.io/tags/ctf' target='_blank'>ctf</a> 
 <a href='https://trebledj.github.io/tags/reverse' target='_blank'>reverse</a> 
 <a href='https://trebledj.github.io/tags/writeup' target='_blank'>writeup</a> 
 <a href='https://trebledj.github.io/tags/cpp' target='_blank'>cpp</a> 
-</td><td>2022-11-15</td></tr><tr><td>😱 <a href='https://trebledj.github.io/posts/hkcert-2022-base64-encryption/' target='_blank'>HKCERT CTF 2022 – Base64 Encryption</a></td><td><a href='https://trebledj.github.io/tags/ctf' target='_blank'>ctf</a> 
+</td><td>2022-11-15</td></tr><tr><td>📈 <a href='https://trebledj.github.io/posts/hkcert-2022-base64-encryption/' target='_blank'>HKCERT CTF 2022 – Base64 Encryption</a></td><td><a href='https://trebledj.github.io/tags/ctf' target='_blank'>ctf</a> 
 <a href='https://trebledj.github.io/tags/cryptography' target='_blank'>cryptography</a> 
 <a href='https://trebledj.github.io/tags/writeup' target='_blank'>writeup</a> 
 <a href='https://trebledj.github.io/tags/python' target='_blank'>python</a> 
-</td><td>2022-11-14</td></tr><tr><td>📈 <a href='https://trebledj.github.io/posts/implicit-parameters-in-scala-and-haskell/' target='_blank'>Implicit Parameters in Scala and Haskell</a></td><td><a href='https://trebledj.github.io/tags/tutorial' target='_blank'>tutorial</a> 
+</td><td>2022-11-14</td></tr><tr><td>🌞 <a href='https://trebledj.github.io/posts/implicit-parameters-in-scala-and-haskell/' target='_blank'>Implicit Parameters in Scala and Haskell</a></td><td><a href='https://trebledj.github.io/tags/tutorial' target='_blank'>tutorial</a> 
 <a href='https://trebledj.github.io/tags/scala' target='_blank'>scala</a> 
 <a href='https://trebledj.github.io/tags/haskell' target='_blank'>haskell</a> 
 <a href='https://trebledj.github.io/tags/cpp' target='_blank'>cpp</a> 
 <a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
-</td><td>2022-10-15</td></tr><tr><td>🌞 <a href='https://trebledj.github.io/posts/ductf-2022-ezpz-rev/' target='_blank'>DownUnderCTF 2022 – ezpz-rev</a></td><td><a href='https://trebledj.github.io/tags/ctf' target='_blank'>ctf</a> 
+</td><td>2022-10-15</td></tr><tr><td>📈 <a href='https://trebledj.github.io/posts/ductf-2022-ezpz-rev/' target='_blank'>DownUnderCTF 2022 – ezpz-rev</a></td><td><a href='https://trebledj.github.io/tags/ctf' target='_blank'>ctf</a> 
 <a href='https://trebledj.github.io/tags/reverse' target='_blank'>reverse</a> 
 <a href='https://trebledj.github.io/tags/writeup' target='_blank'>writeup</a> 
 <a href='https://trebledj.github.io/tags/python' target='_blank'>python</a> 
 <a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
-</td><td>2022-09-28</td></tr><tr><td>📈 <a href='https://trebledj.github.io/posts/hkust-robotics-team/' target='_blank'>The HKUST Robotics Team</a></td><td><a href='https://trebledj.github.io/tags/robotics' target='_blank'>robotics</a> 
-<a href='https://trebledj.github.io/tags/experience' target='_blank'>experience</a> 
-<a href='https://trebledj.github.io/tags/hkust' target='_blank'>hkust</a> 
-</td><td>2022-09-21</td></tr><!-- BLOG-POST-LIST:END -->
+</td><td>2022-09-28</td></tr><!-- BLOG-POST-LIST:END -->
 </table>
 
 
