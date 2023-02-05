@@ -14,8 +14,8 @@ jobs:
               with: 
                 max_post_count: "5"
                 feed_list: "https://trebledj.github.io/feeds/recent.xml"
-                rand_seed: trebledj
-                template: "<tr><td>$randomEmoji(🔥,🚀,🌱,🎯,⚡️) <a href='$url' target='_blank'>$title</a></td><td>$categories</td><td>$date</td></tr>"
+                rand_seed: trebledjjj
+                template: "<tr><td>$randomEmoji(🔥,🚀,✨,🎯,⚡️) <a href='$url' target='_blank'>$title</a></td><td>$categories</td><td>$date</td></tr>"
                 categories_template: "<a href='https://trebledj.github.io/tags/$category' target='_blank'>$category</a> $newline"
                 date_format: "yyyy-mm-dd"
                 
