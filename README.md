@@ -106,7 +106,7 @@ Feel free to <a href="https://trebledj.github.io/#contact" target="_blank">reach
 ## Recent Posts
 <table>
   <tr><th>📄 Post</th><th>🏷️ Tags</th><th>📆 Date</th></tr>
-<!-- BLOG-POST-LIST:START --><tr><td>🎯 <a href='https://trebledj.github.io/posts/site-migration-to-eleventy/' target='_blank'>Site Migration to Eleventy</a></td><td><a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
+<!-- BLOG-POST-LIST:START --><tr><td>🔥 <a href='https://trebledj.github.io/posts/site-migration-to-eleventy/' target='_blank'>Site Migration to Eleventy</a></td><td><a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
 <a href='https://trebledj.github.io/tags/meta' target='_blank'>meta</a> 
 <a href='https://trebledj.github.io/tags/js' target='_blank'>js</a> 
 </td><td>2023-02-04</td></tr><tr><td>🚀 <a href='https://trebledj.github.io/posts/remorse/' target='_blank'>Remorse</a></td><td><a href='https://trebledj.github.io/tags/composition' target='_blank'>composition</a> 
@@ -115,7 +115,7 @@ Feel free to <a href="https://trebledj.github.io/#contact" target="_blank">reach
 <a href='https://trebledj.github.io/tags/piano' target='_blank'>piano</a> 
 <a href='https://trebledj.github.io/tags/counterpoint' target='_blank'>counterpoint</a> 
 <a href='https://trebledj.github.io/tags/electronic' target='_blank'>electronic</a> 
-</td><td>2023-01-27</td></tr><tr><td>🔥 <a href='https://trebledj.github.io/posts/seaside-garden/' target='_blank'>Seaside Garden</a></td><td><a href='https://trebledj.github.io/tags/composition' target='_blank'>composition</a> 
+</td><td>2023-01-27</td></tr><tr><td>✨ <a href='https://trebledj.github.io/posts/seaside-garden/' target='_blank'>Seaside Garden</a></td><td><a href='https://trebledj.github.io/tags/composition' target='_blank'>composition</a> 
 <a href='https://trebledj.github.io/tags/music' target='_blank'>music</a> 
 <a href='https://trebledj.github.io/tags/song' target='_blank'>song</a> 
 <a href='https://trebledj.github.io/tags/piano' target='_blank'>piano</a> 
@@ -126,7 +126,7 @@ Feel free to <a href="https://trebledj.github.io/#contact" target="_blank">reach
 <a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
 <a href='https://trebledj.github.io/tags/music' target='_blank'>music</a> 
 <a href='https://trebledj.github.io/tags/hkust' target='_blank'>hkust</a> 
-</td><td>2022-12-20</td></tr><tr><td>🔥 <a href='https://trebledj.github.io/posts/aoc-2021-day-22/' target='_blank'>AOC 2021 Day 22 - Reactor Reboot</a></td><td><a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
+</td><td>2022-12-20</td></tr><tr><td>⚡️ <a href='https://trebledj.github.io/posts/aoc-2021-day-22/' target='_blank'>AOC 2021 Day 22 - Reactor Reboot</a></td><td><a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
 <a href='https://trebledj.github.io/tags/aoc' target='_blank'>aoc</a> 
 <a href='https://trebledj.github.io/tags/rust' target='_blank'>rust</a> 
 <a href='https://trebledj.github.io/tags/mathematics' target='_blank'>mathematics</a> 
