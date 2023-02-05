@@ -126,7 +126,7 @@ Feel free to <a href="https://trebledj.github.io/#contact" target="_blank">reach
 <a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
 <a href='https://trebledj.github.io/tags/music' target='_blank'>music</a> 
 <a href='https://trebledj.github.io/tags/hkust' target='_blank'>hkust</a> 
-</td><td>2022-12-20</td></tr><tr><td>⚡️ <a href='https://trebledj.github.io/posts/aoc-2021-day-22/' target='_blank'>AOC 2021 Day 22 - Reactor Reboot</a></td><td><a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
+</td><td>2022-12-20</td></tr><tr><td>⚡️ <a href='https://trebledj.github.io/posts/aoc-2021-day-22/' target='_blank'>AOC 2021 Day 22 -- Reactor Reboot</a></td><td><a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
 <a href='https://trebledj.github.io/tags/aoc' target='_blank'>aoc</a> 
 <a href='https://trebledj.github.io/tags/rust' target='_blank'>rust</a> 
 <a href='https://trebledj.github.io/tags/mathematics' target='_blank'>mathematics</a> 
