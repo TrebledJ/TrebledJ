@@ -52,8 +52,6 @@ Feel free to <a href="https://trebledj.github.io/#contact" target="_blank">reach
 <a href="/https://trebledj.github.io/feeds/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://trebledj.github.io/feeds" height="25" width="25" /></a>
 </p>
 
-You can also find me lurking around on Discord: TrebledJ#7595.
-
 ## Skills
 ### Languages
 <p>
