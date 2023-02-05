@@ -15,20 +15,19 @@ Here are some ideas to get you started:
 
 <h1 align="center">(づ◔ ͜ʖ◔)づ Johnathan's GitHubヽ(^ᴗ^ヽ)</h1>
 
-Hi, thanks for dropping by! I'm a final year HKUST mathematics undergrad. I'm passionate about <a href="https://trebledj.github.io/tags/programming" target="_blank">programming</a> and <a href="https://trebledj.github.io/tags/music" target="_blank">composing music</a>. I'm also interested in a wide range of fields: <a href="https://trebledj.github.io/tags/robotics" target="_blank">robotics</a>, <a href="https://trebledj.github.io/tags/ctf" target="_blank">cybersecurity</a>, <a href="https://trebledj.github.io/tags/apps" target="_blank">application development</a>, and software engineering in general. I'm excited about developing applications to solve problems and provide an educational interface for learners.
+Hi! I'm a final year undergrad studying mathematics at the Hong Kong University of Science and Technology. I love to <a href="https://trebledj.github.io/tags/programming" target="_blank">code</a> and <a href="https://trebledj.github.io/tags/music" target="_blank">compose music</a>. I'm also interested in a wide range of fields such as <a href="https://trebledj.github.io/tags/robotics" target="_blank">robotics</a>, <a href="https://trebledj.github.io/tags/ctf" target="_blank">cybersecurity</a>, <a href="https://trebledj.github.io/tags/apps" target="_blank">application development</a>, and software engineering in general. I like <a href="https://trebledj.github.io/tags/math" target="_blank">math</a> as well, although I'm terrible at it. I'm excited to develop applications to solve problems, share ideas through writing, and learn more about the small world we're stuck on.
 
-- 🚀 I’m currently working on [various][ms-plugin-1] [MuseScore plugins][ms-plugin-2] in JS/QML, documenting my [university experiences/projects][ust], and composing [variations on a theme][variations].
-- 🌱 I’m currently learning ML and Rust. ᕕ( ᐛ )ᕗ
+Feel free to <a href="https://trebledj.github.io/#contact" target="_blank">reach out</a> for whatever reason. ヽ(・∀・)ﾉ
+
+- 🚀 I’m currently working on finishing my final semester and composing [variations on a theme][variations].
+- 🌱 Some courses I’m currently taking are multimedia computing, a couple cybersecurity courses, and music in China.
 - 💬 Ask me about C++, Python, programming, and music.
-- 📝 I write tutorials, reflections, and sharings on [https://trebledj.github.io/](https://trebledj.github.io/).
+- 📝 I write sharings, reflections, and the occasional tutorial on [https://trebledj.github.io/](https://trebledj.github.io/).
 - ⚡ Fun fact: I like dark mode and pineapple on pizza.
 <!-- - 👯 I’m looking to collaborate on collaborate-project -->
 <!-- - 🤝 I’m looking for help with help-project -->
 <!-- - 📫 How to reach me: ~~you can't, jk.~~ discord, email, linkedin. -->
 
-[ms-plugin-1]: https://github.com/TrebledJ/musescore-todo-list
-[ms-plugin-2]: https://github.com/TrebledJ/musescore-navigation
-[ust]: https://trebledj.github.io/tags/hkust
 [variations]: https://en.wikipedia.org/wiki/Variation_(music)
 
 ## Social
@@ -42,13 +41,15 @@ Hi, thanks for dropping by! I'm a final year HKUST mathematics undergrad. I'm pa
 <!-- SoundCloud -->
 <a href="https://soundcloud.com/trebledj" target="_blank"><img align="center" src="https://www.svgrepo.com/show/35013/soundcloud.svg" alt="SoundCloud" height="35" width="40" /></a>
 <!-- Spotify -->
-<a href="https://open.spotify.com/user/24i9exez29k1jr85olljuy94g?si=4213a229649f4ceb" target="_blank"><img align="center" src="https://www.svgrepo.com/show/355256/spotify.svg" alt="Spotify" height="40" width="40" /></a>
+<!-- <a href="https://open.spotify.com/user/24i9exez29k1jr85olljuy94g?si=4213a229649f4ceb" target="_blank"><img align="center" src="https://www.svgrepo.com/show/355256/spotify.svg" alt="Spotify" height="40" width="40" /></a> -->
 <!-- MuseScore -->
 <a href="https://musescore.com/user/20636901" target="_blank"><img align="center" src="https://raw.githubusercontent.com/TrebledJ/trebledj.github.io/master/assets/img/logos/musescore.png" alt="MuseScore" height="40" width="40" /></a>
+<!-- Discord -->
+<a href="https://discordapp.com/users/220427982798454794" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="TrebledJ#7595" height="40" width="40" /></a>
 <!-- Email -->
 <a href="mailto:trebledjjj@gmail.com" target="_blank"><img align="center" src="https://www.svgrepo.com/show/237958/email-mail.svg" alt="10239789" height="35" width="40" /></a>
 <!-- RSS -->
-<a href="/https://trebledj.github.io/feeds/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://trebledj.github.io/feed.xml" height="25" width="25" /></a>
+<a href="/https://trebledj.github.io/feeds/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://trebledj.github.io/feeds" height="25" width="25" /></a>
 </p>
 
 You can also find me lurking around on Discord: TrebledJ#7595.
