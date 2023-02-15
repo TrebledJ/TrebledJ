@@ -109,7 +109,6 @@ Feel free to <a href="https://trebledj.github.io/#contact" target="_blank">reach
 <!-- BLOG-POST-LIST:START --><tr><td>🔥 <a href='https://trebledj.github.io/posts/amorama/' target='_blank'>Amorama</a></td><td><a href='https://trebledj.github.io/tags/composition' target='_blank'>composition</a> 
 <a href='https://trebledj.github.io/tags/music' target='_blank'>music</a> 
 <a href='https://trebledj.github.io/tags/fusion' target='_blank'>fusion</a> 
-<a href='https://trebledj.github.io/tags/counterpoint' target='_blank'>counterpoint</a> 
 <a href='https://trebledj.github.io/tags/faith' target='_blank'>faith</a> 
 </td><td>2023-02-14</td></tr><tr><td>🚀 <a href='https://trebledj.github.io/posts/site-migration-to-eleventy/' target='_blank'>Site Migration to Eleventy</a></td><td><a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
 <a href='https://trebledj.github.io/tags/meta' target='_blank'>meta</a> 
