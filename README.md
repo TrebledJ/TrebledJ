@@ -19,9 +19,9 @@ Hi! I'm a final year undergrad studying mathematics at the Hong Kong University 
 
 Feel free to <a href="https://trebledj.github.io/#contact" target="_blank">reach out</a> for whatever reason. ヽ(・∀・)ﾉ
 
-- 🚀 I’m currently working on finishing my final semester and composing [variations on a theme][variations].
-- 🌱 Some courses I’m currently taking are multimedia computing, a couple cybersecurity courses, and music in China.
-- 💬 Ask me about C++, Python, programming, and music.
+- 🚀 I’m currently working on finishing my final semester in one piece and composing [variations on a theme][variations].
+- 🌱 In this semester, I’m studying multimedia computing, cybersecurity, and music in China.
+- 💬 Ask me about C++, Python, programming, CTFs, and music.
 - 📝 I write sharings, reflections, and the occasional tutorial on [https://trebledj.github.io/](https://trebledj.github.io/).
 - ⚡ Fun fact: I like dark mode and pineapple on pizza.
 <!-- - 👯 I’m looking to collaborate on collaborate-project -->
