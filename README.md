@@ -106,7 +106,7 @@ Feel free to <a href="https://trebledj.github.io/#contact" target="_blank">reach
 ## Recent Posts
 <table>
   <tr><th>📄 Post</th><th>🏷️ Tags</th><th>📆 Date</th></tr>
-<!-- BLOG-POST-LIST:START --><tr><td>🔥 <a href='https://trebledj.github.io/posts/the-basics-of-digital-audio-processing/' target='_blank'>Part 1: The Basics of Digital Audio Processing</a></td><td><a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
+<!-- BLOG-POST-LIST:START --><tr><td>🔥 <a href='https://trebledj.github.io/posts/digital-audio-processing-for-dummies/' target='_blank'>Part 1: Digital Audio Processing for Dummies</a></td><td><a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
 <a href='https://trebledj.github.io/tags/tutorial' target='_blank'>tutorial</a> 
 <a href='https://trebledj.github.io/tags/dsp' target='_blank'>dsp</a> 
 <a href='https://trebledj.github.io/tags/music' target='_blank'>music</a> 
