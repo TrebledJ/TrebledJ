@@ -106,29 +106,30 @@ Feel free to <a href="https://trebledj.github.io/#contact" target="_blank">reach
 ## Recent Posts
 <table>
   <tr><th>📄 Post</th><th>🏷️ Tags</th><th>📆 Date</th></tr>
-<!-- BLOG-POST-LIST:START --><tr><td>🔥 <a href='https://trebledj.github.io/posts/digital-audio-processing-for-dummies/' target='_blank'>Part 1: Digital Audio Processing for Dummies</a></td><td><a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
+<!-- BLOG-POST-LIST:START --><tr><td>🔥 <a href='https://trebledj.github.io/posts/digital-audio-synthesis-for-dummies/' target='_blank'>Part 2: Digital Audio Synthesis for Dummies</a></td><td><a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
+<a href='https://trebledj.github.io/tags/tutorial' target='_blank'>tutorial</a> 
+<a href='https://trebledj.github.io/tags/dsp' target='_blank'>dsp</a> 
+<a href='https://trebledj.github.io/tags/c' target='_blank'>c</a> 
+<a href='https://trebledj.github.io/tags/cpp' target='_blank'>cpp</a> 
+<a href='https://trebledj.github.io/tags/music' target='_blank'>music</a> 
+</td><td>2023-03-09</td></tr><tr><td>🚀 <a href='https://trebledj.github.io/posts/the-basics-of-digital-audio-processing-for-dummies/' target='_blank'>Part 1: The Basics of Digital Audio Processing for Dummies</a></td><td><a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
 <a href='https://trebledj.github.io/tags/tutorial' target='_blank'>tutorial</a> 
 <a href='https://trebledj.github.io/tags/dsp' target='_blank'>dsp</a> 
 <a href='https://trebledj.github.io/tags/music' target='_blank'>music</a> 
-</td><td>2023-02-24</td></tr><tr><td>🚀 <a href='https://trebledj.github.io/posts/amorama/' target='_blank'>Amorama</a></td><td><a href='https://trebledj.github.io/tags/composition' target='_blank'>composition</a> 
+</td><td>2023-02-24</td></tr><tr><td>✨ <a href='https://trebledj.github.io/posts/amorama/' target='_blank'>Amorama</a></td><td><a href='https://trebledj.github.io/tags/composition' target='_blank'>composition</a> 
 <a href='https://trebledj.github.io/tags/music' target='_blank'>music</a> 
 <a href='https://trebledj.github.io/tags/fusion' target='_blank'>fusion</a> 
 <a href='https://trebledj.github.io/tags/faith' target='_blank'>faith</a> 
-</td><td>2023-02-14</td></tr><tr><td>✨ <a href='https://trebledj.github.io/posts/site-migration-to-eleventy/' target='_blank'>Site Migration to Eleventy</a></td><td><a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
+</td><td>2023-02-14</td></tr><tr><td>🎯 <a href='https://trebledj.github.io/posts/site-migration-to-eleventy/' target='_blank'>Site Migration to Eleventy</a></td><td><a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
 <a href='https://trebledj.github.io/tags/meta' target='_blank'>meta</a> 
 <a href='https://trebledj.github.io/tags/js' target='_blank'>js</a> 
-</td><td>2023-02-04</td></tr><tr><td>🎯 <a href='https://trebledj.github.io/posts/remorse/' target='_blank'>Remorse</a></td><td><a href='https://trebledj.github.io/tags/composition' target='_blank'>composition</a> 
+</td><td>2023-02-04</td></tr><tr><td>⚡️ <a href='https://trebledj.github.io/posts/remorse/' target='_blank'>Remorse</a></td><td><a href='https://trebledj.github.io/tags/composition' target='_blank'>composition</a> 
 <a href='https://trebledj.github.io/tags/music' target='_blank'>music</a> 
 <a href='https://trebledj.github.io/tags/faith' target='_blank'>faith</a> 
 <a href='https://trebledj.github.io/tags/piano' target='_blank'>piano</a> 
 <a href='https://trebledj.github.io/tags/counterpoint' target='_blank'>counterpoint</a> 
 <a href='https://trebledj.github.io/tags/electronic' target='_blank'>electronic</a> 
-</td><td>2023-01-27</td></tr><tr><td>⚡️ <a href='https://trebledj.github.io/posts/seaside-garden/' target='_blank'>Seaside Garden</a></td><td><a href='https://trebledj.github.io/tags/composition' target='_blank'>composition</a> 
-<a href='https://trebledj.github.io/tags/music' target='_blank'>music</a> 
-<a href='https://trebledj.github.io/tags/song' target='_blank'>song</a> 
-<a href='https://trebledj.github.io/tags/piano' target='_blank'>piano</a> 
-<a href='https://trebledj.github.io/tags/hkust' target='_blank'>hkust</a> 
-</td><td>2023-01-01</td></tr><!-- BLOG-POST-LIST:END -->
+</td><td>2023-01-27</td></tr><!-- BLOG-POST-LIST:END -->
 </table>
 
 
