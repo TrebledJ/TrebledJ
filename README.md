@@ -13,17 +13,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">(づ◔ ͜ʖ◔)づ Johnathan's GitHubヽ(^ᴗ^ヽ)</h1>
+<h1 align="center">(づ◔ ͜ʖ◔)づ Johnathan's GitHubヽ(^ᴗ^ヽ) <img src="https://blob.cat/emoji/custom/blobcats/ablobcatwave2.gif"></h1>
 
 Hi! I'm a final year undergrad studying mathematics at the Hong Kong University of Science and Technology. I love to <a href="https://trebledj.github.io/tags/programming" target="_blank">code</a> and <a href="https://trebledj.github.io/tags/music" target="_blank">compose music</a>. I'm also interested in a wide range of fields such as <a href="https://trebledj.github.io/tags/robotics" target="_blank">robotics</a>, <a href="https://trebledj.github.io/tags/ctf" target="_blank">cybersecurity</a>, <a href="https://trebledj.github.io/tags/apps" target="_blank">application development</a>, and software engineering in general. I like <a href="https://trebledj.github.io/tags/math" target="_blank">math</a> as well, although I'm terrible at it. I'm excited to develop applications to solve problems, share ideas through writing, and learn more about the small world we reside on.
 
-Feel free to <a href="https://trebledj.github.io/#contact" target="_blank">reach out</a> for whatever reason. ヽ(・∀・)ﾉ
+Feel free to <a href="https://trebledj.github.io/#contact" target="_blank">reach out</a> for whatever reason. ヽ(・∀・)ﾉ But no spam. 
+<img src="https://blob.cat/emoji/custom/blobcats/blobcat_MUDAMUDAMUDA.png" width="24px" height="24px">
 
-- 🚀 I’m currently working on finishing my final semester in one piece and composing [variations on a theme][variations].
-- 🌱 In this semester, I’m studying multimedia computing, cybersecurity, and music in China.
+- 🚀 I’m currently working on finishing my final semester in one piece and composing [variations on a theme][variations]. <img src="https://blob.cat/emoji/custom/blobcats/ablobcatdjslow.gif" width="20px" height="20px">
+- 🌱 In this semester, I’m studying multimedia computing, cybersecurity, and music in China. <img src="https://blob.cat/emoji/custom/blobcats/ablobcatgoogly.gif" width="20px" height="20px">
 - 💬 Ask me about C++, Python, programming, CTFs, and music.
-- 📝 I write sharings, reflections, and the occasional tutorial on [https://trebledj.github.io/](https://trebledj.github.io/).
-- ⚡ Fun fact: I like dark mode and pineapple on pizza.
+- 📝 I write sharings, reflections, and the occasional tutorial on [https://trebledj.github.io/](https://trebledj.github.io/). <img src="https://blob.cat/emoji/custom/blobcats/ablobcatbongokeyboard.gif" width="20px" height="20px">
+- ⚡ Fun fact: I like dark mode and pineapple on pizza. <img src="https://blob.cat/emoji/custom/blobcats/ablobcatrave.png" width="20px" height="20px">
 <!-- - 👯 I’m looking to collaborate on collaborate-project -->
 <!-- - 🤝 I’m looking for help with help-project -->
 <!-- - 📫 How to reach me: ~~you can't, jk.~~ discord, email, linkedin. -->
@@ -33,7 +34,7 @@ Feel free to <a href="https://trebledj.github.io/#contact" target="_blank">reach
 ## Social
 <p align="left">
 <!-- GitHub -->
-<a href="https://github.com/TrebledJ" target="_blank"><img align="center" src="https://www.svgrepo.com/show/341847/github.svg" alt="Personal Site" height="40" width="40" /></a>
+<a href="https://github.com/TrebledJ" target="_blank"><img align="center" src="https://www.svgrepo.com/show/341847/github.svg" alt="Personal Site" height="20" width="20"/></a>
 <!-- StackOverflow -->
 <a href="https://stackoverflow.com/users/10239789" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10239789" height="30" width="40" /></a>
 <!-- Codingame -->
@@ -140,3 +141,5 @@ Feel free to <a href="https://trebledj.github.io/#contact" target="_blank">reach
 - [Answer by TrebledJ for ::tolower using std::transform](https://stackoverflow.com/questions/74534956/tolower-using-stdtransform/74535040#74535040)
 - [Answer by TrebledJ for Why is the output not right even tho im using &#39;long&#39; data type here?](https://stackoverflow.com/questions/74534756/why-is-the-output-not-right-even-tho-im-using-long-data-type-here/74534809#74534809)
 <!-- STACKOVERFLOW:END -->
+
+<img src="https://blob.cat/emoji/custom/blobcats/ablobcatwave2_rev.gif" width="24px" height="24px">
