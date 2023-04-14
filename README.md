@@ -23,7 +23,7 @@ Feel free to <a href="https://trebledj.github.io/#contact" target="_blank">reach
 - 🚀 I’m currently working on finishing my final semester in one piece and composing [variations on a theme][variations]. <img src="https://blob.cat/emoji/custom/blobcats/ablobcatdjslow.gif" width="20px" height="20px">
 - 🌱 In this semester, I’m studying multimedia computing, cybersecurity, and music in China. <img src="https://blob.cat/emoji/custom/blobcats/ablobcatgoogly.gif" width="20px" height="20px">
 - 💬 Ask me about C++, Python, programming, CTFs, and music.
-- 📝 I write sharings, reflections, and the occasional tutorial on [https://trebledj.github.io/](https://trebledj.github.io/). <img src="https://blob.cat/emoji/custom/blobcats/ablobcatbongokeyboard.gif" width="20px" height="20px">
+- 📝 I write sharings, reflections, and the occasional tutorial on [my website](https://trebledj.github.io/). <img src="https://blob.cat/emoji/custom/blobcats/ablobcatbongokeyboard.gif" width="20px" height="20px">
 - ⚡ Fun fact: I like dark mode and pineapple on pizza. <img src="https://blob.cat/emoji/custom/blobcats/ablobcatrave.png" width="20px" height="20px">
 <!-- - 👯 I’m looking to collaborate on collaborate-project -->
 <!-- - 🤝 I’m looking for help with help-project -->
@@ -34,7 +34,7 @@ Feel free to <a href="https://trebledj.github.io/#contact" target="_blank">reach
 ## Social
 <p align="left">
 <!-- GitHub -->
-<a href="https://github.com/TrebledJ" target="_blank"><img align="center" src="https://www.svgrepo.com/show/341847/github.svg" alt="Personal Site" height="20" width="20"/></a>
+<a href="https://github.com/TrebledJ" target="_blank"><img align="center" src="https://www.svgrepo.com/show/341847/github.svg" alt="Personal Site" height="40" width="40"/></a>
 <!-- StackOverflow -->
 <a href="https://stackoverflow.com/users/10239789" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10239789" height="30" width="40" /></a>
 <!-- Codingame -->
@@ -146,4 +146,5 @@ Feel free to <a href="https://trebledj.github.io/#contact" target="_blank">reach
 - [Answer by TrebledJ for Why is the output not right even tho im using &#39;long&#39; data type here?](https://stackoverflow.com/questions/74534756/why-is-the-output-not-right-even-tho-im-using-long-data-type-here/74534809#74534809)
 <!-- STACKOVERFLOW:END -->
 
-<img src="https://blob.cat/emoji/custom/blobcats/ablobcatwave2_rev.gif" width="24px" height="24px">
+
+<img src="https://blob.cat/emoji/custom/blobcats/ablobcatwave2_rev.gif" width="24px" height="24px"> Keep scrolling to see interesting projects I've been working on!
