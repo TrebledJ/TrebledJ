@@ -107,33 +107,32 @@ Feel free to <a href="https://trebledj.github.io/#contact" target="_blank">reach
 ## Recent Posts
 <table>
   <tr><th>📄 Post</th><th>🏷️ Tags</th><th>📆 Date</th></tr>
-<!-- BLOG-POST-LIST:START --><tr><td>🔥 <a href='https://trebledj.github.io/posts/midnight-enigma/' target='_blank'>Midnight Enigma</a></td><td><a href='https://trebledj.github.io/tags/composition' target='_blank'>composition</a> 
+<!-- BLOG-POST-LIST:START --><tr><td>🔥 <a href='https://trebledj.github.io/posts/the-mathematics-of-types/' target='_blank'>The Mathematics of Types</a></td><td><a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
+<a href='https://trebledj.github.io/tags/mathematics' target='_blank'>mathematics</a> 
+<a href='https://trebledj.github.io/tags/haskell' target='_blank'>haskell</a> 
+</td><td>2023-04-24</td></tr><tr><td>🚀 <a href='https://trebledj.github.io/posts/midnight-enigma/' target='_blank'>Midnight Enigma</a></td><td><a href='https://trebledj.github.io/tags/composition' target='_blank'>composition</a> 
 <a href='https://trebledj.github.io/tags/music' target='_blank'>music</a> 
 <a href='https://trebledj.github.io/tags/minimalism' target='_blank'>minimalism</a> 
 <a href='https://trebledj.github.io/tags/electronic' target='_blank'>electronic</a> 
 <a href='https://trebledj.github.io/tags/fusion' target='_blank'>fusion</a> 
 <a href='https://trebledj.github.io/tags/band' target='_blank'>band</a> 
-</td><td>2023-04-13</td></tr><tr><td>🚀 <a href='https://trebledj.github.io/posts/deja-vu-cycle-of-power/' target='_blank'>Déjà Vu – Cycle of Power</a></td><td><a href='https://trebledj.github.io/tags/composition' target='_blank'>composition</a> 
+</td><td>2023-04-13</td></tr><tr><td>✨ <a href='https://trebledj.github.io/posts/deja-vu-cycle-of-power/' target='_blank'>Déjà Vu – Cycle of Power</a></td><td><a href='https://trebledj.github.io/tags/composition' target='_blank'>composition</a> 
 <a href='https://trebledj.github.io/tags/music' target='_blank'>music</a> 
 <a href='https://trebledj.github.io/tags/orchestral' target='_blank'>orchestral</a> 
 <a href='https://trebledj.github.io/tags/fusion' target='_blank'>fusion</a> 
 <a href='https://trebledj.github.io/tags/faith' target='_blank'>faith</a> 
 <a href='https://trebledj.github.io/tags/deja-vu' target='_blank'>deja-vu</a> 
 <a href='https://trebledj.github.io/tags/diatribe' target='_blank'>diatribe</a> 
-</td><td>2023-04-09</td></tr><tr><td>✨ <a href='https://trebledj.github.io/posts/digital-audio-synthesis-for-dummies-part-2/' target='_blank'>Digital Audio Synthesis for Dummies: Part 2</a></td><td><a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
+</td><td>2023-04-09</td></tr><tr><td>🎯 <a href='https://trebledj.github.io/posts/digital-audio-synthesis-for-dummies-part-2/' target='_blank'>Digital Audio Synthesis for Dummies: Part 2</a></td><td><a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
 <a href='https://trebledj.github.io/tags/tutorial' target='_blank'>tutorial</a> 
 <a href='https://trebledj.github.io/tags/dsp' target='_blank'>dsp</a> 
 <a href='https://trebledj.github.io/tags/c' target='_blank'>c</a> 
 <a href='https://trebledj.github.io/tags/cpp' target='_blank'>cpp</a> 
 <a href='https://trebledj.github.io/tags/music' target='_blank'>music</a> 
-</td><td>2023-03-09</td></tr><tr><td>🎯 <a href='https://trebledj.github.io/posts/digital-audio-synthesis-for-dummies-part-1/' target='_blank'>Digital Audio Synthesis for Dummies: Part 1</a></td><td><a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
+</td><td>2023-03-09</td></tr><tr><td>⚡️ <a href='https://trebledj.github.io/posts/digital-audio-synthesis-for-dummies-part-1/' target='_blank'>Digital Audio Synthesis for Dummies: Part 1</a></td><td><a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
 <a href='https://trebledj.github.io/tags/tutorial' target='_blank'>tutorial</a> 
 <a href='https://trebledj.github.io/tags/dsp' target='_blank'>dsp</a> 
-</td><td>2023-02-24</td></tr><tr><td>⚡️ <a href='https://trebledj.github.io/posts/amorama/' target='_blank'>Amorama</a></td><td><a href='https://trebledj.github.io/tags/composition' target='_blank'>composition</a> 
-<a href='https://trebledj.github.io/tags/music' target='_blank'>music</a> 
-<a href='https://trebledj.github.io/tags/fusion' target='_blank'>fusion</a> 
-<a href='https://trebledj.github.io/tags/faith' target='_blank'>faith</a> 
-</td><td>2023-02-14</td></tr><!-- BLOG-POST-LIST:END -->
+</td><td>2023-02-24</td></tr><!-- BLOG-POST-LIST:END -->
 </table>
 
 
