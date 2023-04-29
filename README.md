@@ -146,4 +146,4 @@ Feel free to <a href="https://trebledj.github.io/#contact" target="_blank">reach
 <!-- STACKOVERFLOW:END -->
 
 
-<img src="https://blob.cat/emoji/custom/blobcats/ablobcatwave2_rev.gif" width="24px" height="24px"> Keep scrolling to see interesting projects I've been working on!
+<img src="https://blob.cat/emoji/custom/blobcats/ablobcatwave2_rev.gif" width="24px" height="24px"> Scroll around to see projects I've been working on!
