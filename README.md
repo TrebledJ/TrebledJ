@@ -122,6 +122,7 @@ Feel free to <a href="https://trebledj.github.io/#contact" target="_blank">reach
 </td><td>2023-05-09</td></tr><tr><td>✨ <a href='https://trebledj.github.io/posts/the-mathematics-of-types/' target='_blank'>The Mathematics of Types</a></td><td><a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
 <a href='https://trebledj.github.io/tags/mathematics' target='_blank'>mathematics</a> 
 <a href='https://trebledj.github.io/tags/haskell' target='_blank'>haskell</a> 
+<a href='https://trebledj.github.io/tags/software-engineering' target='_blank'>software-engineering</a> 
 </td><td>2023-04-24</td></tr><tr><td>🎯 <a href='https://trebledj.github.io/posts/midnight-enigma/' target='_blank'>Midnight Enigma</a></td><td><a href='https://trebledj.github.io/tags/composition' target='_blank'>composition</a> 
 <a href='https://trebledj.github.io/tags/music' target='_blank'>music</a> 
 <a href='https://trebledj.github.io/tags/minimalism' target='_blank'>minimalism</a> 
