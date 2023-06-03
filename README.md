@@ -118,9 +118,10 @@ Feel free to <a href="https://trebledj.github.io/#contact" target="_blank">reach
 <a href='https://trebledj.github.io/tags/cpp' target='_blank'>cpp</a> 
 <a href='https://trebledj.github.io/tags/music' target='_blank'>music</a> 
 </td><td>2023-05-24</td></tr><tr><td>✨ <a href='https://trebledj.github.io/posts/smart-tracking-tray/' target='_blank'>Smart-Tracking Tray</a></td><td><a href='https://trebledj.github.io/tags/project' target='_blank'>project</a> 
+<a href='https://trebledj.github.io/tags/iot' target='_blank'>iot</a> 
 <a href='https://trebledj.github.io/tags/embedded' target='_blank'>embedded</a> 
-<a href='https://trebledj.github.io/tags/software-engineering' target='_blank'>software-engineering</a> 
 <a href='https://trebledj.github.io/tags/cpp' target='_blank'>cpp</a> 
+<a href='https://trebledj.github.io/tags/software-engineering' target='_blank'>software-engineering</a> 
 <a href='https://trebledj.github.io/tags/experience' target='_blank'>experience</a> 
 <a href='https://trebledj.github.io/tags/hkust' target='_blank'>hkust</a> 
 </td><td>2023-05-23</td></tr><tr><td>🎯 <a href='https://trebledj.github.io/posts/browser-based-midi-editor/' target='_blank'>Browser-Based MIDI Editor</a></td><td><a href='https://trebledj.github.io/tags/project' target='_blank'>project</a> 
