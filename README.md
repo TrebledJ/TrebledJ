@@ -20,8 +20,8 @@ Hi! I'm a final year undergrad studying mathematics at the Hong Kong University 
 Feel free to <a href="https://trebledj.github.io/#contact" target="_blank">reach out</a> for whatever reason. ヽ(・∀・)ﾉ But no spam. 
 <img src="https://blob.cat/emoji/custom/blobcats/blobcat_MUDAMUDAMUDA.png" width="24px" height="24px">
 
-- 🚀 I’m currently working on finishing my final semester in one piece and composing [variations on a theme][variations]. <img src="https://blob.cat/emoji/custom/blobcats/ablobcatdjslow.gif" width="20px" height="20px">
-- 🌱 In this semester, I’m studying multimedia computing, cybersecurity, and music in China. <img src="https://blob.cat/emoji/custom/blobcats/ablobcatgoogly.gif" width="20px" height="20px">
+- 🚀 I’m currently working on finishing my summer break in one piece and composing [variations on a theme][variations]. <img src="https://blob.cat/emoji/custom/blobcats/ablobcatdjslow.gif" width="20px" height="20px">
+- 🌱 In this semester, I’m studying multimedia computing, cybersecurity, and music in China. <img src="https://blob.cat/emoji/custom/blobcats/ablobcatgoogly.gif" width="20px" height="20px"> My semester's over though.
 - 💬 Ask me about C++, Python, programming, CTFs, and music.
 - 📝 I write sharings, reflections, and the occasional tutorial on [my website](https://trebledj.github.io/). <img src="https://blob.cat/emoji/custom/blobcats/ablobcatbongokeyboard.gif" width="20px" height="20px">
 - ⚡ Fun fact: I like dark mode and pineapple on pizza. <img src="https://blob.cat/emoji/custom/blobcats/ablobcatrave.png" width="20px" height="20px">
