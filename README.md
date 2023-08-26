@@ -107,15 +107,23 @@ Feel free to <a href="https://trebledj.github.io/#contact" target="_blank">reach
 ## Recent Posts
 <table>
   <tr><th>📄 Post</th><th>🏷️ Tags</th><th>📆 Date</th></tr>
-<!-- BLOG-POST-LIST:START --><tr><td>🔥 <a href='https://trebledj.github.io/posts/dynamic-memory-embedded-bad/' target='_blank'>Why Dynamic Memory Allocation Bad &lpar;for Embedded&rpar;</a></td><td><a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
+<!-- BLOG-POST-LIST:START --><tr><td>🔥 <a href='https://trebledj.github.io/posts/overflow/' target='_blank'>Overflow</a></td><td><a href='https://trebledj.github.io/tags/composition' target='_blank'>composition</a> 
+<a href='https://trebledj.github.io/tags/music' target='_blank'>music</a> 
+<a href='https://trebledj.github.io/tags/faith' target='_blank'>faith</a> 
+<a href='https://trebledj.github.io/tags/song' target='_blank'>song</a> 
+<a href='https://trebledj.github.io/tags/worship' target='_blank'>worship</a> 
+<a href='https://trebledj.github.io/tags/band' target='_blank'>band</a> 
+<a href='https://trebledj.github.io/tags/electronic' target='_blank'>electronic</a> 
+<a href='https://trebledj.github.io/tags/diatribe' target='_blank'>diatribe</a> 
+</td><td>2023-08-27</td></tr><tr><td>🚀 <a href='https://trebledj.github.io/posts/dynamic-memory-embedded-bad/' target='_blank'>Why Dynamic Memory Allocation Bad &lpar;for Embedded&rpar;</a></td><td><a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
 <a href='https://trebledj.github.io/tags/embedded' target='_blank'>embedded</a> 
 <a href='https://trebledj.github.io/tags/c' target='_blank'>c</a> 
 <a href='https://trebledj.github.io/tags/cpp' target='_blank'>cpp</a> 
 <a href='https://trebledj.github.io/tags/software-engineering' target='_blank'>software-engineering</a> 
-</td><td>2023-06-24</td></tr><tr><td>🚀 <a href='https://trebledj.github.io/posts/hkust-firebird-ctf-team/' target='_blank'>The HKUST Firebird CTF Team</a></td><td><a href='https://trebledj.github.io/tags/experience' target='_blank'>experience</a> 
+</td><td>2023-06-24</td></tr><tr><td>✨ <a href='https://trebledj.github.io/posts/hkust-firebird-ctf-team/' target='_blank'>The HKUST Firebird CTF Team</a></td><td><a href='https://trebledj.github.io/tags/experience' target='_blank'>experience</a> 
 <a href='https://trebledj.github.io/tags/ctf' target='_blank'>ctf</a> 
 <a href='https://trebledj.github.io/tags/hkust' target='_blank'>hkust</a> 
-</td><td>2023-05-29</td></tr><tr><td>✨ <a href='https://trebledj.github.io/posts/digital-audio-synthesis-for-dummies-part-3/' target='_blank'>Digital Audio Synthesis for Dummies: Part 3</a></td><td><a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
+</td><td>2023-05-29</td></tr><tr><td>🎯 <a href='https://trebledj.github.io/posts/digital-audio-synthesis-for-dummies-part-3/' target='_blank'>Digital Audio Synthesis for Dummies: Part 3</a></td><td><a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
 <a href='https://trebledj.github.io/tags/tutorial' target='_blank'>tutorial</a> 
 <a href='https://trebledj.github.io/tags/dsp' target='_blank'>dsp</a> 
 <a href='https://trebledj.github.io/tags/embedded' target='_blank'>embedded</a> 
@@ -123,7 +131,7 @@ Feel free to <a href="https://trebledj.github.io/#contact" target="_blank">reach
 <a href='https://trebledj.github.io/tags/cpp' target='_blank'>cpp</a> 
 <a href='https://trebledj.github.io/tags/stm32' target='_blank'>stm32</a> 
 <a href='https://trebledj.github.io/tags/music' target='_blank'>music</a> 
-</td><td>2023-05-24</td></tr><tr><td>🎯 <a href='https://trebledj.github.io/posts/smart-tracking-tray/' target='_blank'>Smart-Tracking Tray</a></td><td><a href='https://trebledj.github.io/tags/project' target='_blank'>project</a> 
+</td><td>2023-05-24</td></tr><tr><td>⚡️ <a href='https://trebledj.github.io/posts/smart-tracking-tray/' target='_blank'>Smart-Tracking Tray</a></td><td><a href='https://trebledj.github.io/tags/project' target='_blank'>project</a> 
 <a href='https://trebledj.github.io/tags/iot' target='_blank'>iot</a> 
 <a href='https://trebledj.github.io/tags/embedded' target='_blank'>embedded</a> 
 <a href='https://trebledj.github.io/tags/cpp' target='_blank'>cpp</a> 
@@ -131,13 +139,7 @@ Feel free to <a href="https://trebledj.github.io/#contact" target="_blank">reach
 <a href='https://trebledj.github.io/tags/software-engineering' target='_blank'>software-engineering</a> 
 <a href='https://trebledj.github.io/tags/experience' target='_blank'>experience</a> 
 <a href='https://trebledj.github.io/tags/hkust' target='_blank'>hkust</a> 
-</td><td>2023-05-23</td></tr><tr><td>⚡️ <a href='https://trebledj.github.io/posts/browser-based-midi-editor/' target='_blank'>Browser-Based MIDI Editor</a></td><td><a href='https://trebledj.github.io/tags/project' target='_blank'>project</a> 
-<a href='https://trebledj.github.io/tags/apps' target='_blank'>apps</a> 
-<a href='https://trebledj.github.io/tags/js' target='_blank'>js</a> 
-<a href='https://trebledj.github.io/tags/python' target='_blank'>python</a> 
-<a href='https://trebledj.github.io/tags/music' target='_blank'>music</a> 
-<a href='https://trebledj.github.io/tags/hkust' target='_blank'>hkust</a> 
-</td><td>2023-05-09</td></tr><!-- BLOG-POST-LIST:END -->
+</td><td>2023-05-23</td></tr><!-- BLOG-POST-LIST:END -->
 </table>
 
 
