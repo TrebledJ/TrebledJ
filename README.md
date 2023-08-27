@@ -110,8 +110,8 @@ Feel free to <a href="https://trebledj.github.io/#contact" target="_blank">reach
 <!-- BLOG-POST-LIST:START --><tr><td>🔥 <a href='https://trebledj.github.io/posts/overflow/' target='_blank'>Overflow</a></td><td><a href='https://trebledj.github.io/tags/composition' target='_blank'>composition</a> 
 <a href='https://trebledj.github.io/tags/music' target='_blank'>music</a> 
 <a href='https://trebledj.github.io/tags/faith' target='_blank'>faith</a> 
-<a href='https://trebledj.github.io/tags/song' target='_blank'>song</a> 
 <a href='https://trebledj.github.io/tags/worship' target='_blank'>worship</a> 
+<a href='https://trebledj.github.io/tags/song' target='_blank'>song</a> 
 <a href='https://trebledj.github.io/tags/band' target='_blank'>band</a> 
 <a href='https://trebledj.github.io/tags/electronic' target='_blank'>electronic</a> 
 <a href='https://trebledj.github.io/tags/diatribe' target='_blank'>diatribe</a> 
