@@ -114,7 +114,7 @@ Feel free to <a href="https://trebledj.github.io/#contact" target="_blank">reach
 <a href='https://trebledj.github.io/tags/song' target='_blank'>song</a> 
 <a href='https://trebledj.github.io/tags/band' target='_blank'>band</a> 
 <a href='https://trebledj.github.io/tags/electronic' target='_blank'>electronic</a> 
-<a href='https://trebledj.github.io/tags/diatribe' target='_blank'>diatribe</a> 
+<a href='https://trebledj.github.io/tags/essay' target='_blank'>essay</a> 
 </td><td>2023-08-27</td></tr><tr><td>🚀 <a href='https://trebledj.github.io/posts/dynamic-memory-embedded-bad/' target='_blank'>Why Dynamic Memory Allocation Bad &lpar;for Embedded&rpar;</a></td><td><a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
 <a href='https://trebledj.github.io/tags/embedded' target='_blank'>embedded</a> 
 <a href='https://trebledj.github.io/tags/c' target='_blank'>c</a> 
