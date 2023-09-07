@@ -15,14 +15,19 @@ Here are some ideas to get you started:
 
 <h1 align="center">(づ◔ ͜ʖ◔)づ Johnathan's GitHubヽ(^ᴗ^ヽ) <img src="https://blob.cat/emoji/custom/blobcats/ablobcatwave2.gif"></h1>
 
-Hi! I'm a final year undergrad studying mathematics at the Hong Kong University of Science and Technology. I love to <a href="https://trebledj.github.io/tags/programming" target="_blank">code</a> and <a href="https://trebledj.github.io/tags/music" target="_blank">compose music</a>. I'm also interested in a wide range of fields such as <a href="https://trebledj.github.io/tags/robotics" target="_blank">robotics</a>, <a href="https://trebledj.github.io/tags/ctf" target="_blank">cybersecurity</a>, <a href="https://trebledj.github.io/tags/apps" target="_blank">application development</a>, and software engineering in general. I like <a href="https://trebledj.github.io/tags/math" target="_blank">math</a> as well, although I'm terrible at it. I'm excited to develop applications to solve problems, share ideas through writing, and learn more about the small world we reside on.
+Hi! I'm a recent graduate of the [Hong Kong University of Science and Technology (HKUST)](http://hkust.edu.hk/). I'm passionate in a wide range of fields, from [software engineering](/tags/software-engineering) to [music](/tags/music).
+Software engineering is such a vast field.
+There's the joy and pain of [app development](/tags/apps), the tension and fun in [cybersecurity](/tags/ctf), and the tangible excitement of [robotics](/tags/robotics).
+And let's not forget the gritty (yet beautiful) backbone of [programming](/tags/programming).
+
+More about me? I like to solve problems, learn new things, and pass it on through teaching/mentoring.
+In my spare time, I enjoy taking walks, [composing music](/tags/composition), play the occasional CTF, and putting my thoughts down on ~~paper~~ text.
 
 Feel free to <a href="https://trebledj.github.io/#contact" target="_blank">reach out</a> for whatever reason. ヽ(・∀・)ﾉ But no spam. 
 <img src="https://blob.cat/emoji/custom/blobcats/blobcat_MUDAMUDAMUDA.png" width="24px" height="24px">
 
 - 🚀 I’m currently working on finishing my summer break in one piece and composing [variations on a theme][variations]. <img src="https://blob.cat/emoji/custom/blobcats/ablobcatdjslow.gif" width="20px" height="20px">
-<!-- - 🌱 In this semester, I’m studying multimedia computing, cybersecurity, and music in China. <img src="https://blob.cat/emoji/custom/blobcats/ablobcatgoogly.gif" width="20px" height="20px"> -->
-- 💬 Ask me about C++, Python, programming, CTFs, and music.
+- 💬 Chat with me about C++, Python, programming, CTFs, music, audio engineering, and writing.
 - 📝 I write sharings, reflections, and the occasional tutorial on [my website](https://trebledj.github.io/). <img src="https://blob.cat/emoji/custom/blobcats/ablobcatbongokeyboard.gif" width="20px" height="20px">
 - ⚡ Fun fact: I like dark mode and pineapple on pizza. <img src="https://blob.cat/emoji/custom/blobcats/ablobcatrave.png" width="20px" height="20px">
 <!-- - 👯 I’m looking to collaborate on collaborate-project -->
