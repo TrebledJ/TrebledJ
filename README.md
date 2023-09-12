@@ -116,6 +116,7 @@ Feel free to <a href="https://trebledj.github.io/#contact" target="_blank">reach
 <a href='https://trebledj.github.io/tags/ctf' target='_blank'>ctf</a> 
 <a href='https://trebledj.github.io/tags/pwn' target='_blank'>pwn</a> 
 <a href='https://trebledj.github.io/tags/reverse' target='_blank'>reverse</a> 
+<a href='https://trebledj.github.io/tags/learning' target='_blank'>learning</a> 
 </td><td>2023-09-10</td></tr><tr><td>🚀 <a href='https://trebledj.github.io/posts/ductf-2023-wrong-signal/' target='_blank'>DUCTF 2023 – Wrong Signal</a></td><td><a href='https://trebledj.github.io/tags/ctf' target='_blank'>ctf</a> 
 <a href='https://trebledj.github.io/tags/writeup' target='_blank'>writeup</a> 
 <a href='https://trebledj.github.io/tags/reverse' target='_blank'>reverse</a> 
