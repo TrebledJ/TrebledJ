@@ -26,7 +26,7 @@ In my spare time, I enjoy taking walks, [composing music](/tags/composition), pl
 Feel free to <a href="https://trebledj.github.io/#contact" target="_blank">reach out</a> for whatever reason. ヽ(・∀・)ﾉ But no spam. 
 <img src="https://blob.cat/emoji/custom/blobcats/blobcat_MUDAMUDAMUDA.png" width="24px" height="24px">
 
-- 🚀 I’m currently working on finishing my summer break in one piece and composing [variations on a theme][variations]. <img src="https://blob.cat/emoji/custom/blobcats/ablobcatdjslow.gif" width="20px" height="20px">
+- 🚀 I’m currently playing CTFs, tinkering with my blog, and composing [variations on a theme][variations]. <img src="https://blob.cat/emoji/custom/blobcats/ablobcatdjslow.gif" width="20px" height="20px">
 - 💬 Chat with me about C++, Python, programming, CTFs, music, audio engineering, and writing.
 - 📝 I write sharings, reflections, and the occasional tutorial on [my website](https://trebledj.github.io/). <img src="https://blob.cat/emoji/custom/blobcats/ablobcatbongokeyboard.gif" width="20px" height="20px">
 - ⚡ Fun fact: I like dark mode and pineapple on pizza. <img src="https://blob.cat/emoji/custom/blobcats/ablobcatrave.png" width="20px" height="20px">
