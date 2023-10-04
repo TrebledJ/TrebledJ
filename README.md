@@ -121,7 +121,7 @@ Feel free to <a href="https://trebledj.github.io/#contact" target="_blank">reach
 <a href='https://trebledj.github.io/tags/reverse' target='_blank'>reverse</a> 
 <a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
 <a href='https://trebledj.github.io/tags/programming-languages' target='_blank'>programming-languages</a> 
-</td><td>2023-10-02</td></tr><tr><td>🚀 <a href='https://trebledj.github.io/posts/hitcon-2023-the-blade/' target='_blank'>HITCON 2023 – The Blade</a></td><td><a href='https://trebledj.github.io/tags/ctf' target='_blank'>ctf</a> 
+</td><td>2023-10-02</td></tr><tr><td>🚀 <a href='https://trebledj.github.io/posts/hitcon-2023-the-blade/' target='_blank'>HITCON 2023 – The Blade</a></td><td><a href='https://trebledj.github.io/tags/ctf' target='_blank'>ctf</a> 
 <a href='https://trebledj.github.io/tags/writeup' target='_blank'>writeup</a> 
 <a href='https://trebledj.github.io/tags/reverse' target='_blank'>reverse</a> 
 <a href='https://trebledj.github.io/tags/rust' target='_blank'>rust</a> 
@@ -132,7 +132,7 @@ Feel free to <a href="https://trebledj.github.io/#contact" target="_blank">reach
 <a href='https://trebledj.github.io/tags/pwn' target='_blank'>pwn</a> 
 <a href='https://trebledj.github.io/tags/reverse' target='_blank'>reverse</a> 
 <a href='https://trebledj.github.io/tags/learning' target='_blank'>learning</a> 
-</td><td>2023-09-11</td></tr><tr><td>🎯 <a href='https://trebledj.github.io/posts/ductf-2023-wrong-signal/' target='_blank'>DUCTF 2023 – Wrong Signal</a></td><td><a href='https://trebledj.github.io/tags/ctf' target='_blank'>ctf</a> 
+</td><td>2023-09-11</td></tr><tr><td>🎯 <a href='https://trebledj.github.io/posts/ductf-2023-wrong-signal/' target='_blank'>DUCTF 2023 – Wrong Signal</a></td><td><a href='https://trebledj.github.io/tags/ctf' target='_blank'>ctf</a> 
 <a href='https://trebledj.github.io/tags/writeup' target='_blank'>writeup</a> 
 <a href='https://trebledj.github.io/tags/reverse' target='_blank'>reverse</a> 
 <a href='https://trebledj.github.io/tags/python' target='_blank'>python</a> 
