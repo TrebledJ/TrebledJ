@@ -15,15 +15,17 @@ Here are some ideas to get you started:
 
 <h1 align="center">(づ◔ ͜ʖ◔)づ Johnathan's GitHubヽ(^ᴗ^ヽ) <img src="https://blob.cat/emoji/custom/blobcats/ablobcatwave2.gif"></h1>
 
-Hi! I'm a recent graduate of the [Hong Kong University of Science and Technology (HKUST)](http://hkust.edu.hk/). I'm passionate in a wide range of fields, from [software engineering](/tags/software-engineering) to [music](/tags/music).
+Hi! (｡＾ ᴗ＾)ﾉ
+I'm a recent graduate of the [Hong Kong University of Science and Technology (HKUST)](http://hkust.edu.hk/).
+I'm passionate in a wide range of fields, from [software engineering](https://trebledj.github.io/tags/software-engineering) to [music](https://trebledj.github.io/tags/music).
 Software engineering is such a vast field.
-There's the joy and pain of [app development](/tags/apps), the tension and fun in [cybersecurity](/tags/ctf), and the tangible excitement of [robotics](/tags/robotics).
-And let's not forget the gritty (yet beautiful) backbone of [programming](/tags/programming).
+There's almost an endless thrill in building robust [apps](https://trebledj.github.io/tags/apps), exploring the deep field of cybersecurity, and the toying with [robots](https://trebledj.github.io/tags/robotics) and circuitry.
+And let's not forget the gritty (yet beautiful) art of [programming](https://trebledj.github.io/tags/programming)—simply enjoying [languages](https://trebledj.github.io/tags/programming-languages) for their succinctness or ability to express complex thoughts.
 
-More about me? I like to solve problems, learn new things, and pass it on through teaching/mentoring.
-In my spare time, I enjoy taking walks, [composing music](/tags/composition), play the occasional CTF, and putting my thoughts down on ~~paper~~ text.
-
-Feel free to <a href="https://trebledj.github.io/#contact" target="_blank">reach out</a> for whatever reason. ヽ(・∀・)ﾉ But no spam. 
+More about me? I like to solve problems, learn new things, and pass it on through teaching.
+In my spare time, I enjoy taking walks, [composing music](https://trebledj.github.io/tags/composition), playing the occasional [CTF](https://trebledj.github.io/tags/ctf), and putting my thoughts down to ~~paper~~ text.
+		
+Feel free to [reach out](https://trebledj.github.io/#contact) for whatever reason. ヽ(・∀・)ﾉ But no spam. 
 <img src="https://blob.cat/emoji/custom/blobcats/blobcat_MUDAMUDAMUDA.png" width="24px" height="24px">
 
 - 🚀 I’m currently playing CTFs, tinkering with my blog, and composing [variations on a theme][variations]. <img src="https://blob.cat/emoji/custom/blobcats/ablobcatdjslow.gif" width="20px" height="20px">
