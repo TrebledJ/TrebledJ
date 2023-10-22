@@ -19,7 +19,7 @@ Hi! (｡＾ ᴗ＾)ﾉ
 I'm a recent graduate of the [Hong Kong University of Science and Technology (HKUST)](http://hkust.edu.hk/).
 I'm passionate in a wide range of fields, from [software engineering](https://trebledj.github.io/tags/software-engineering) to [music](https://trebledj.github.io/tags/music).
 Software engineering is such a vast field.
-There's almost an endless thrill in building robust [apps](https://trebledj.github.io/tags/apps), exploring the deep field of cybersecurity, and the toying with [robots](https://trebledj.github.io/tags/robotics) and circuitry.
+There's almost an endless thrill in building robust [apps](https://trebledj.github.io/tags/apps), exploring the deep field of cybersecurity, and toying with [robots](https://trebledj.github.io/tags/robotics) and circuitry.
 And let's not forget the gritty (yet beautiful) art of [programming](https://trebledj.github.io/tags/programming)—simply enjoying [languages](https://trebledj.github.io/tags/programming-languages) for their succinctness or ability to express complex thoughts.
 
 More about me? I like to solve problems, learn new things, and pass it on through teaching.
