@@ -122,6 +122,7 @@ Feel free to [reach out](https://trebledj.github.io/#contact) for whatever reaso
 <a href='https://trebledj.github.io/tags/reverse' target='_blank'>reverse</a> 
 <a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
 <a href='https://trebledj.github.io/tags/programming-languages' target='_blank'>programming-languages</a> 
+<a href='https://trebledj.github.io/tags/oop' target='_blank'>oop</a> 
 </td><td>2023-10-02</td></tr><tr><td>🚀 <a href='https://trebledj.github.io/posts/hitcon-2023-the-blade/' target='_blank'>HITCON 2023 – The Blade</a></td><td><a href='https://trebledj.github.io/tags/ctf' target='_blank'>ctf</a> 
 <a href='https://trebledj.github.io/tags/writeup' target='_blank'>writeup</a> 
 <a href='https://trebledj.github.io/tags/reverse' target='_blank'>reverse</a> 
