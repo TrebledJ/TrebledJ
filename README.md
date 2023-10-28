@@ -38,6 +38,57 @@ Feel free to [reach out](https://trebledj.github.io/#contact) for whatever reaso
 
 [variations]: https://en.wikipedia.org/wiki/Variation_(music)
 
+
+## Recent Posts
+<table>
+  <tr><th>📄 Post</th><th>🏷️ Tags</th><th>📆 Date</th></tr>
+<!-- BLOG-POST-LIST:START --><tr><td>🔥 <a href='https://trebledj.github.io/posts/maplectf-2023-mostly-harmless/' target='_blank'>Subtype Metaprogramming is Mostly Harmless</a></td><td><a href='https://trebledj.github.io/tags/ctf' target='_blank'>ctf</a> 
+<a href='https://trebledj.github.io/tags/writeup' target='_blank'>writeup</a> 
+<a href='https://trebledj.github.io/tags/types' target='_blank'>types</a> 
+<a href='https://trebledj.github.io/tags/python' target='_blank'>python</a> 
+<a href='https://trebledj.github.io/tags/tutorial' target='_blank'>tutorial</a> 
+<a href='https://trebledj.github.io/tags/reverse' target='_blank'>reverse</a> 
+<a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
+<a href='https://trebledj.github.io/tags/programming-languages' target='_blank'>programming-languages</a> 
+<a href='https://trebledj.github.io/tags/oop' target='_blank'>oop</a> 
+</td><td>2023-10-02</td></tr><tr><td>🚀 <a href='https://trebledj.github.io/posts/hitcon-2023-the-blade/' target='_blank'>HITCON 2023 – The Blade</a></td><td><a href='https://trebledj.github.io/tags/ctf' target='_blank'>ctf</a> 
+<a href='https://trebledj.github.io/tags/writeup' target='_blank'>writeup</a> 
+<a href='https://trebledj.github.io/tags/reverse' target='_blank'>reverse</a> 
+<a href='https://trebledj.github.io/tags/rust' target='_blank'>rust</a> 
+<a href='https://trebledj.github.io/tags/python' target='_blank'>python</a> 
+<a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
+</td><td>2023-09-20</td></tr><tr><td>✨ <a href='https://trebledj.github.io/posts/gdb-cheatsheet/' target='_blank'>GDB/GEF Cheatsheet</a></td><td><a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
+<a href='https://trebledj.github.io/tags/ctf' target='_blank'>ctf</a> 
+<a href='https://trebledj.github.io/tags/pwn' target='_blank'>pwn</a> 
+<a href='https://trebledj.github.io/tags/reverse' target='_blank'>reverse</a> 
+<a href='https://trebledj.github.io/tags/learning' target='_blank'>learning</a> 
+</td><td>2023-09-11</td></tr><tr><td>🎯 <a href='https://trebledj.github.io/posts/ductf-2023-wrong-signal/' target='_blank'>DUCTF 2023 – Wrong Signal</a></td><td><a href='https://trebledj.github.io/tags/ctf' target='_blank'>ctf</a> 
+<a href='https://trebledj.github.io/tags/writeup' target='_blank'>writeup</a> 
+<a href='https://trebledj.github.io/tags/reverse' target='_blank'>reverse</a> 
+<a href='https://trebledj.github.io/tags/python' target='_blank'>python</a> 
+<a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
+</td><td>2023-09-04</td></tr><tr><td>⚡️ <a href='https://trebledj.github.io/posts/overflow/' target='_blank'>Overflow</a></td><td><a href='https://trebledj.github.io/tags/composition' target='_blank'>composition</a> 
+<a href='https://trebledj.github.io/tags/music' target='_blank'>music</a> 
+<a href='https://trebledj.github.io/tags/faith' target='_blank'>faith</a> 
+<a href='https://trebledj.github.io/tags/worship' target='_blank'>worship</a> 
+<a href='https://trebledj.github.io/tags/song' target='_blank'>song</a> 
+<a href='https://trebledj.github.io/tags/band' target='_blank'>band</a> 
+<a href='https://trebledj.github.io/tags/electronic' target='_blank'>electronic</a> 
+<a href='https://trebledj.github.io/tags/essay' target='_blank'>essay</a> 
+</td><td>2023-08-27</td></tr><!-- BLOG-POST-LIST:END -->
+</table>
+
+
+## Recent StackOverflow Activity
+<!-- STACKOVERFLOW:START -->
+- [Answer by TrebledJ for Cannot Input Integer Into Class Object to Store and Output](https://stackoverflow.com/questions/75726012/cannot-input-integer-into-class-object-to-store-and-output/75726187#75726187)
+- [Answer by TrebledJ for Faulty returncode of subprocess.run&lpar;&rpar;](https://stackoverflow.com/questions/75725763/faulty-returncode-of-subprocess-run/75725819#75725819)
+- [Answer by TrebledJ for QStandardItemModel delete multiple rows without problem - python](https://stackoverflow.com/questions/74547384/qstandarditemmodel-delete-multiple-rows-without-problem-python/74547451#74547451)
+- [Answer by TrebledJ for ::tolower using std::transform](https://stackoverflow.com/questions/74534956/tolower-using-stdtransform/74535040#74535040)
+- [Answer by TrebledJ for Why is the output not right even tho im using &#39;long&#39; data type here?](https://stackoverflow.com/questions/74534756/why-is-the-output-not-right-even-tho-im-using-long-data-type-here/74534809#74534809)
+<!-- STACKOVERFLOW:END -->
+
+
 ## Social
 <p align="left">
 <!-- GitHub -->
@@ -59,6 +110,7 @@ Feel free to [reach out](https://trebledj.github.io/#contact) for whatever reaso
 <!-- RSS -->
 <a href="/https://trebledj.github.io/feeds/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://trebledj.github.io/feeds" height="25" width="25" /></a>
 </p>
+
 
 ## Skills
 ### Languages
@@ -110,55 +162,6 @@ Feel free to [reach out](https://trebledj.github.io/#contact) for whatever reaso
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trebledj&show_icons=true&locale=en" alt="trebledj" /></p> -->
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trebledj&" alt="trebledj" /></p> -->
-
-## Recent Posts
-<table>
-  <tr><th>📄 Post</th><th>🏷️ Tags</th><th>📆 Date</th></tr>
-<!-- BLOG-POST-LIST:START --><tr><td>🔥 <a href='https://trebledj.github.io/posts/maplectf-2023-mostly-harmless/' target='_blank'>Subtype Metaprogramming is Mostly Harmless</a></td><td><a href='https://trebledj.github.io/tags/ctf' target='_blank'>ctf</a> 
-<a href='https://trebledj.github.io/tags/writeup' target='_blank'>writeup</a> 
-<a href='https://trebledj.github.io/tags/types' target='_blank'>types</a> 
-<a href='https://trebledj.github.io/tags/python' target='_blank'>python</a> 
-<a href='https://trebledj.github.io/tags/tutorial' target='_blank'>tutorial</a> 
-<a href='https://trebledj.github.io/tags/reverse' target='_blank'>reverse</a> 
-<a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
-<a href='https://trebledj.github.io/tags/programming-languages' target='_blank'>programming-languages</a> 
-<a href='https://trebledj.github.io/tags/oop' target='_blank'>oop</a> 
-</td><td>2023-10-02</td></tr><tr><td>🚀 <a href='https://trebledj.github.io/posts/hitcon-2023-the-blade/' target='_blank'>HITCON 2023 – The Blade</a></td><td><a href='https://trebledj.github.io/tags/ctf' target='_blank'>ctf</a> 
-<a href='https://trebledj.github.io/tags/writeup' target='_blank'>writeup</a> 
-<a href='https://trebledj.github.io/tags/reverse' target='_blank'>reverse</a> 
-<a href='https://trebledj.github.io/tags/rust' target='_blank'>rust</a> 
-<a href='https://trebledj.github.io/tags/python' target='_blank'>python</a> 
-<a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
-</td><td>2023-09-20</td></tr><tr><td>✨ <a href='https://trebledj.github.io/posts/gdb-cheatsheet/' target='_blank'>GDB/GEF Cheatsheet</a></td><td><a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
-<a href='https://trebledj.github.io/tags/ctf' target='_blank'>ctf</a> 
-<a href='https://trebledj.github.io/tags/pwn' target='_blank'>pwn</a> 
-<a href='https://trebledj.github.io/tags/reverse' target='_blank'>reverse</a> 
-<a href='https://trebledj.github.io/tags/learning' target='_blank'>learning</a> 
-</td><td>2023-09-11</td></tr><tr><td>🎯 <a href='https://trebledj.github.io/posts/ductf-2023-wrong-signal/' target='_blank'>DUCTF 2023 – Wrong Signal</a></td><td><a href='https://trebledj.github.io/tags/ctf' target='_blank'>ctf</a> 
-<a href='https://trebledj.github.io/tags/writeup' target='_blank'>writeup</a> 
-<a href='https://trebledj.github.io/tags/reverse' target='_blank'>reverse</a> 
-<a href='https://trebledj.github.io/tags/python' target='_blank'>python</a> 
-<a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
-</td><td>2023-09-04</td></tr><tr><td>⚡️ <a href='https://trebledj.github.io/posts/overflow/' target='_blank'>Overflow</a></td><td><a href='https://trebledj.github.io/tags/composition' target='_blank'>composition</a> 
-<a href='https://trebledj.github.io/tags/music' target='_blank'>music</a> 
-<a href='https://trebledj.github.io/tags/faith' target='_blank'>faith</a> 
-<a href='https://trebledj.github.io/tags/worship' target='_blank'>worship</a> 
-<a href='https://trebledj.github.io/tags/song' target='_blank'>song</a> 
-<a href='https://trebledj.github.io/tags/band' target='_blank'>band</a> 
-<a href='https://trebledj.github.io/tags/electronic' target='_blank'>electronic</a> 
-<a href='https://trebledj.github.io/tags/essay' target='_blank'>essay</a> 
-</td><td>2023-08-27</td></tr><!-- BLOG-POST-LIST:END -->
-</table>
-
-
-## Recent StackOverflow Activity
-<!-- STACKOVERFLOW:START -->
-- [Answer by TrebledJ for Cannot Input Integer Into Class Object to Store and Output](https://stackoverflow.com/questions/75726012/cannot-input-integer-into-class-object-to-store-and-output/75726187#75726187)
-- [Answer by TrebledJ for Faulty returncode of subprocess.run&lpar;&rpar;](https://stackoverflow.com/questions/75725763/faulty-returncode-of-subprocess-run/75725819#75725819)
-- [Answer by TrebledJ for QStandardItemModel delete multiple rows without problem - python](https://stackoverflow.com/questions/74547384/qstandarditemmodel-delete-multiple-rows-without-problem-python/74547451#74547451)
-- [Answer by TrebledJ for ::tolower using std::transform](https://stackoverflow.com/questions/74534956/tolower-using-stdtransform/74535040#74535040)
-- [Answer by TrebledJ for Why is the output not right even tho im using &#39;long&#39; data type here?](https://stackoverflow.com/questions/74534756/why-is-the-output-not-right-even-tho-im-using-long-data-type-here/74534809#74534809)
-<!-- STACKOVERFLOW:END -->
 
 
 <img src="https://blob.cat/emoji/custom/blobcats/ablobcatwave2_rev.gif" width="24px" height="24px"> Scroll around to see projects I've been working on!
