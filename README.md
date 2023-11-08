@@ -42,7 +42,11 @@ Feel free to [reach out](https://trebledj.github.io/#contact) for whatever reaso
 ## Recent Posts
 <table>
   <tr><th>📄 Post</th><th>🏷️ Tags</th><th>📆 Date</th></tr>
-<!-- BLOG-POST-LIST:START --><tr><td>🔥 <a href='https://trebledj.github.io/posts/subtype-metaprogramming-is-mostly-harmless/' target='_blank'>Subtype Metaprogramming is Mostly Harmless</a></td><td><a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
+<!-- BLOG-POST-LIST:START --><tr><td>🔥 <a href='https://trebledj.github.io/posts/site-migration-to-cloudflare/' target='_blank'>Site Updates and Migration to Cloudflare Pages</a></td><td><a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
+<a href='https://trebledj.github.io/tags/meta' target='_blank'>meta</a> 
+<a href='https://trebledj.github.io/tags/writeup' target='_blank'>writeup</a> 
+<a href='https://trebledj.github.io/tags/web' target='_blank'>web</a> 
+</td><td>2023-11-09</td></tr><tr><td>🚀 <a href='https://trebledj.github.io/posts/subtype-metaprogramming-is-mostly-harmless/' target='_blank'>Subtype Metaprogramming is Mostly Harmless</a></td><td><a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
 <a href='https://trebledj.github.io/tags/ctf' target='_blank'>ctf</a> 
 <a href='https://trebledj.github.io/tags/types' target='_blank'>types</a> 
 <a href='https://trebledj.github.io/tags/python' target='_blank'>python</a> 
@@ -52,32 +56,23 @@ Feel free to [reach out](https://trebledj.github.io/#contact) for whatever reaso
 <a href='https://trebledj.github.io/tags/metaprogramming' target='_blank'>metaprogramming</a> 
 <a href='https://trebledj.github.io/tags/oop' target='_blank'>oop</a> 
 <a href='https://trebledj.github.io/tags/writeup' target='_blank'>writeup</a> 
-</td><td>2023-10-02</td></tr><tr><td>🚀 <a href='https://trebledj.github.io/posts/hitcon-2023-the-blade/' target='_blank'>HITCON 2023 – The Blade</a></td><td><a href='https://trebledj.github.io/tags/ctf' target='_blank'>ctf</a> 
+</td><td>2023-10-02</td></tr><tr><td>✨ <a href='https://trebledj.github.io/posts/hitcon-2023-the-blade/' target='_blank'>HITCON 2023 – The Blade</a></td><td><a href='https://trebledj.github.io/tags/ctf' target='_blank'>ctf</a> 
 <a href='https://trebledj.github.io/tags/writeup' target='_blank'>writeup</a> 
 <a href='https://trebledj.github.io/tags/reverse' target='_blank'>reverse</a> 
 <a href='https://trebledj.github.io/tags/rust' target='_blank'>rust</a> 
 <a href='https://trebledj.github.io/tags/python' target='_blank'>python</a> 
 <a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
-</td><td>2023-09-20</td></tr><tr><td>✨ <a href='https://trebledj.github.io/posts/gdb-cheatsheet/' target='_blank'>GDB/GEF Cheatsheet</a></td><td><a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
+</td><td>2023-09-20</td></tr><tr><td>🎯 <a href='https://trebledj.github.io/posts/gdb-cheatsheet/' target='_blank'>GDB/GEF Cheatsheet</a></td><td><a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
 <a href='https://trebledj.github.io/tags/ctf' target='_blank'>ctf</a> 
 <a href='https://trebledj.github.io/tags/pwn' target='_blank'>pwn</a> 
 <a href='https://trebledj.github.io/tags/reverse' target='_blank'>reverse</a> 
 <a href='https://trebledj.github.io/tags/learning' target='_blank'>learning</a> 
-</td><td>2023-09-11</td></tr><tr><td>🎯 <a href='https://trebledj.github.io/posts/ductf-2023-wrong-signal/' target='_blank'>DUCTF 2023 – Wrong Signal</a></td><td><a href='https://trebledj.github.io/tags/ctf' target='_blank'>ctf</a> 
+</td><td>2023-09-11</td></tr><tr><td>⚡️ <a href='https://trebledj.github.io/posts/ductf-2023-wrong-signal/' target='_blank'>DUCTF 2023 – Wrong Signal</a></td><td><a href='https://trebledj.github.io/tags/ctf' target='_blank'>ctf</a> 
 <a href='https://trebledj.github.io/tags/writeup' target='_blank'>writeup</a> 
 <a href='https://trebledj.github.io/tags/reverse' target='_blank'>reverse</a> 
 <a href='https://trebledj.github.io/tags/python' target='_blank'>python</a> 
 <a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
-</td><td>2023-09-04</td></tr><tr><td>⚡️ <a href='https://trebledj.github.io/posts/overflow/' target='_blank'>Overflow</a></td><td><a href='https://trebledj.github.io/tags/composition' target='_blank'>composition</a> 
-<a href='https://trebledj.github.io/tags/music' target='_blank'>music</a> 
-<a href='https://trebledj.github.io/tags/faith' target='_blank'>faith</a> 
-<a href='https://trebledj.github.io/tags/worship' target='_blank'>worship</a> 
-<a href='https://trebledj.github.io/tags/song' target='_blank'>song</a> 
-<a href='https://trebledj.github.io/tags/band' target='_blank'>band</a> 
-<a href='https://trebledj.github.io/tags/electronic' target='_blank'>electronic</a> 
-<a href='https://trebledj.github.io/tags/synths' target='_blank'>synths</a> 
-<a href='https://trebledj.github.io/tags/essay' target='_blank'>essay</a> 
-</td><td>2023-08-27</td></tr><!-- BLOG-POST-LIST:END -->
+</td><td>2023-09-04</td></tr><!-- BLOG-POST-LIST:END -->
 </table>
 
 
