@@ -16,22 +16,21 @@ Here are some ideas to get you started:
 <h1 align="center">(づ◔ ͜ʖ◔)づ Johnathan's GitHubヽ(^ᴗ^ヽ) <img src="https://blob.cat/emoji/custom/blobcats/ablobcatwave2.gif"></h1>
 
 Hi! (｡＾ ᴗ＾)ﾉ
-I'm a recent graduate of the [Hong Kong University of Science and Technology (HKUST)](http://hkust.edu.hk/).
-I'm passionate in a wide range of fields, from [software engineering](https://trebledj.github.io/tags/software-engineering) to [music](https://trebledj.github.io/tags/music).
-Software engineering is such a vast field.
-There's almost an endless thrill in building robust [apps](https://trebledj.github.io/tags/apps), exploring the deep field of cybersecurity, and toying with [robots](https://trebledj.github.io/tags/robotics) and circuitry.
-And let's not forget the gritty (yet beautiful) art of [programming](https://trebledj.github.io/tags/programming)—simply enjoying [languages](https://trebledj.github.io/tags/programming-languages) for their succinctness or ability to express complex thoughts.
+I'm Johnathan, a passionate problem-solver, amateur [music composer](https://trebledj.me/tags/composition),
+and [software engineer](https://trebledj.me/tags/software-engineering).
+I enjoy teaching others and thrive on learning new things.
+When not immersed in [programming](https://trebledj.me/tags/programming), I can be found taking walks, [reflecting on life](https://trebledj.me/tags/faith), 
+and occasionally indulging in [CTF challenges](https://trebledj.me/tags/ctf).
 
-More about me? I like to solve problems, learn new things, and pass it on through teaching.
-In my spare time, I enjoy taking walks, [composing music](https://trebledj.github.io/tags/composition), playing the occasional [CTF](https://trebledj.github.io/tags/ctf), and putting my thoughts down to ~~paper~~ text.
-		
-Feel free to [reach out](https://trebledj.github.io/#contact) for whatever reason. ヽ(・∀・)ﾉ But no spam. 
-<img src="https://blob.cat/emoji/custom/blobcats/blobcat_MUDAMUDAMUDA.png" width="24px" height="24px">
+Lately, I've been diving deeper into penetration testing and working on a [variations on a theme](https://en.wikipedia.org/wiki/Variation_(music)).
+
+When it comes to personal preferences, I have an affinity for the sleek allure of dark mode.
+And yes, I must confess, I'm a fan of the ~~controversial~~ delightful combination of pineapple on pizza.
 
 - 🚀 I’m currently playing CTFs, tinkering with my blog, and composing [variations on a theme][variations]. <img src="https://blob.cat/emoji/custom/blobcats/ablobcatdjslow.gif" width="20px" height="20px">
 - 💬 Chat with me about programming (any language is fine!), software engineering, CTFs, music, audio engineering, writing, and life.
 - 📝 I write writeups, reflections, and tutorials. <img src="https://blob.cat/emoji/custom/blobcats/ablobcatbongokeyboard.gif" width="20px" height="20px">
-- ⚡ Fun fact: I like dark mode and pineapple on pizza. <img src="https://blob.cat/emoji/custom/blobcats/ablobcatrave.png" width="20px" height="20px">
+- ⚡ Fun fact: Did I mention I like dark mode and pineapple on pizza? <img src="https://blob.cat/emoji/custom/blobcats/ablobcatrave.png" width="20px" height="20px">
 <!-- - 👯 I’m looking to collaborate on collaborate-project -->
 <!-- - 🤝 I’m looking for help with help-project -->
 <!-- - 📫 How to reach me: ~~you can't, jk.~~ discord, email, linkedin. -->
