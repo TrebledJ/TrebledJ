@@ -41,8 +41,7 @@ And yes, I must confess, I'm a fan of the ~~controversial~~ delightful combinati
 ## Recent Posts
 <table>
   <tr><th>📄 Post</th><th>🏷️ Tags</th><th>📆 Date</th></tr>
-<!-- BLOG-POST-LIST:START --><tr><td>🔥 <a href='https://trebledj.me/posts/site-migration-to-cloudflare/' target='_blank'>Site Updates and Migration to Cloudflare Pages</a></td><td><a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
-<a href='https://trebledj.github.io/tags/meta' target='_blank'>meta</a> 
+<!-- BLOG-POST-LIST:START --><tr><td>🔥 <a href='https://trebledj.me/posts/site-migration-to-cloudflare/' target='_blank'>Site Updates and Migration to Cloudflare Pages</a></td><td><a href='https://trebledj.github.io/tags/meta' target='_blank'>meta</a> 
 <a href='https://trebledj.github.io/tags/writeup' target='_blank'>writeup</a> 
 <a href='https://trebledj.github.io/tags/web' target='_blank'>web</a> 
 </td><td>2023-11-09</td></tr><tr><td>🚀 <a href='https://trebledj.me/posts/subtype-metaprogramming-is-mostly-harmless/' target='_blank'>Subtype Metaprogramming is Mostly Harmless</a></td><td><a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
