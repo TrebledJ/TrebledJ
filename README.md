@@ -47,7 +47,6 @@ And yes, I must confess, I'm a fan of the ~~controversial~~ delightful combinati
 <a href='https://trebledj.github.io/tags/cpp' target='_blank'>cpp</a> 
 <a href='https://trebledj.github.io/tags/tutorial' target='_blank'>tutorial</a> 
 <a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
-<a href='https://trebledj.github.io/tags/hkcert-ctf' target='_blank'>hkcert-ctf</a> 
 </td><td>2023-11-16</td></tr><tr><td>🚀 <a href='https://trebledj.me/posts/site-migration-to-cloudflare/' target='_blank'>Site Updates and Migration to Cloudflare Pages</a></td><td><a href='https://trebledj.github.io/tags/meta' target='_blank'>meta</a> 
 <a href='https://trebledj.github.io/tags/writeup' target='_blank'>writeup</a> 
 <a href='https://trebledj.github.io/tags/web' target='_blank'>web</a> 
