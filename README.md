@@ -50,7 +50,7 @@ And yes, I must confess, I'm a fan of the ~~controversial~~ delightful combinati
 </td><td>2023-11-16</td></tr><tr><td>🚀 <a href='https://trebledj.me/posts/site-migration-to-cloudflare/' target='_blank'>Site Updates and Migration to Cloudflare Pages</a></td><td><a href='https://trebledj.github.io/tags/meta' target='_blank'>meta</a> 
 <a href='https://trebledj.github.io/tags/writeup' target='_blank'>writeup</a> 
 <a href='https://trebledj.github.io/tags/web' target='_blank'>web</a> 
-</td><td>2023-11-09</td></tr><tr><td>✨ <a href='https://trebledj.me/posts/subtype-metaprogramming-is-mostly-harmless/' target='_blank'>Subtype Metaprogramming is Mostly Harmless</a></td><td><a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
+</td><td>2023-11-09</td></tr><tr><td>✨ <a href='https://trebledj.me/posts/subtype-metaprogramming-is-mostly-harmless/' target='_blank'>N[Subtype Metaprogramming] is N[Mostly Harmless]</a></td><td><a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
 <a href='https://trebledj.github.io/tags/ctf' target='_blank'>ctf</a> 
 <a href='https://trebledj.github.io/tags/types' target='_blank'>types</a> 
 <a href='https://trebledj.github.io/tags/python' target='_blank'>python</a> 
