@@ -41,20 +41,27 @@ And yes, I must confess, I'm a fan of the ~~controversial~~ delightful combinati
 ## Recent Posts
 <table>
   <tr><th>📄 Post</th><th>🏷️ Tags</th><th>📆 Date</th></tr>
-<!-- BLOG-POST-LIST:START --><tr><td>🔥 <a href='https://trebledj.me/posts/wacky-insights-from-gods-smuggler/' target='_blank'>5 Wacky Insights from God&#39;s Smuggler</a></td><td><a href='https://trebledj.github.io/tags/faith' target='_blank'>faith</a> 
+<!-- BLOG-POST-LIST:START --><tr><td>🔥 <a href='https://trebledj.me/posts/relay/' target='_blank'>Relay</a></td><td><a href='https://trebledj.github.io/tags/composition' target='_blank'>composition</a> 
+<a href='https://trebledj.github.io/tags/music' target='_blank'>music</a> 
+<a href='https://trebledj.github.io/tags/electronica' target='_blank'>electronica</a> 
+<a href='https://trebledj.github.io/tags/synths' target='_blank'>synths</a> 
+<a href='https://trebledj.github.io/tags/dubsy-wubsy' target='_blank'>dubsy-wubsy</a> 
+<a href='https://trebledj.github.io/tags/modal' target='_blank'>modal</a> 
+<a href='https://trebledj.github.io/tags/faith' target='_blank'>faith</a> 
+</td><td>2024-01-20</td></tr><tr><td>🚀 <a href='https://trebledj.me/posts/wacky-insights-from-gods-smuggler/' target='_blank'>5 Wacky Insights from God&#39;s Smuggler</a></td><td><a href='https://trebledj.github.io/tags/faith' target='_blank'>faith</a> 
 <a href='https://trebledj.github.io/tags/reading' target='_blank'>reading</a> 
 <a href='https://trebledj.github.io/tags/reflection' target='_blank'>reflection</a> 
 <a href='https://trebledj.github.io/tags/notes' target='_blank'>notes</a> 
-</td><td>2024-01-07</td></tr><tr><td>🚀 <a href='https://trebledj.me/posts/hkcert-2023-decompetition-vitamin-cpp/' target='_blank'>HKCERT CTF 2023 – Decompetition: Vitamin C++</a></td><td><a href='https://trebledj.github.io/tags/ctf' target='_blank'>ctf</a> 
+</td><td>2024-01-07</td></tr><tr><td>✨ <a href='https://trebledj.me/posts/hkcert-2023-decompetition-vitamin-cpp/' target='_blank'>HKCERT CTF 2023 – Decompetition: Vitamin C++</a></td><td><a href='https://trebledj.github.io/tags/ctf' target='_blank'>ctf</a> 
 <a href='https://trebledj.github.io/tags/writeup' target='_blank'>writeup</a> 
 <a href='https://trebledj.github.io/tags/reverse' target='_blank'>reverse</a> 
 <a href='https://trebledj.github.io/tags/cpp' target='_blank'>cpp</a> 
 <a href='https://trebledj.github.io/tags/tutorial' target='_blank'>tutorial</a> 
 <a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
-</td><td>2023-11-16</td></tr><tr><td>✨ <a href='https://trebledj.me/posts/site-migration-to-cloudflare/' target='_blank'>Site Updates and Migration to Cloudflare Pages</a></td><td><a href='https://trebledj.github.io/tags/meta' target='_blank'>meta</a> 
+</td><td>2023-11-16</td></tr><tr><td>🎯 <a href='https://trebledj.me/posts/site-migration-to-cloudflare/' target='_blank'>Site Updates and Migration to Cloudflare Pages</a></td><td><a href='https://trebledj.github.io/tags/meta' target='_blank'>meta</a> 
 <a href='https://trebledj.github.io/tags/writeup' target='_blank'>writeup</a> 
 <a href='https://trebledj.github.io/tags/web' target='_blank'>web</a> 
-</td><td>2023-11-09</td></tr><tr><td>🎯 <a href='https://trebledj.me/posts/subtype-metaprogramming-is-mostly-harmless/' target='_blank'>N[Subtype Metaprogramming] is N[Mostly Harmless]</a></td><td><a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
+</td><td>2023-11-09</td></tr><tr><td>⚡️ <a href='https://trebledj.me/posts/subtype-metaprogramming-is-mostly-harmless/' target='_blank'>N[Subtype Metaprogramming] is N[Mostly Harmless]</a></td><td><a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
 <a href='https://trebledj.github.io/tags/ctf' target='_blank'>ctf</a> 
 <a href='https://trebledj.github.io/tags/types' target='_blank'>types</a> 
 <a href='https://trebledj.github.io/tags/python' target='_blank'>python</a> 
@@ -64,13 +71,7 @@ And yes, I must confess, I'm a fan of the ~~controversial~~ delightful combinati
 <a href='https://trebledj.github.io/tags/metaprogramming' target='_blank'>metaprogramming</a> 
 <a href='https://trebledj.github.io/tags/oop' target='_blank'>oop</a> 
 <a href='https://trebledj.github.io/tags/writeup' target='_blank'>writeup</a> 
-</td><td>2023-10-02</td></tr><tr><td>⚡️ <a href='https://trebledj.me/posts/hitcon-2023-the-blade/' target='_blank'>HITCON 2023 – The Blade</a></td><td><a href='https://trebledj.github.io/tags/ctf' target='_blank'>ctf</a> 
-<a href='https://trebledj.github.io/tags/writeup' target='_blank'>writeup</a> 
-<a href='https://trebledj.github.io/tags/reverse' target='_blank'>reverse</a> 
-<a href='https://trebledj.github.io/tags/rust' target='_blank'>rust</a> 
-<a href='https://trebledj.github.io/tags/python' target='_blank'>python</a> 
-<a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
-</td><td>2023-09-20</td></tr><!-- BLOG-POST-LIST:END -->
+</td><td>2023-10-02</td></tr><!-- BLOG-POST-LIST:END -->
 </table>
 
 
