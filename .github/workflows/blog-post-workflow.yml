@@ -18,17 +18,17 @@ jobs:
                 categories_template: "<a href='https://trebledj.github.io/tags/$category' target='_blank'>$category</a> $newline"
                 date_format: "yyyy-mm-dd"
                 
-    update-readme-stackoverflow-activity: 
-        name: Update this repo's README with latest stackoverflow activity
-        runs-on: ubuntu-latest
-        steps: 
-            - uses: actions/checkout@v4
-            - uses: gautamkrishnar/blog-post-workflow@master
-              with: 
-                max_post_count: "5"
-                comment_tag_name: "STACKOVERFLOW"
-                commit_message: "Updated readme with the latest stackOverflow data"
-                feed_list: "https://stackoverflow.com/feeds/user/10239789"
-                filter_comments: "stackoverflow/Comment by $author/"
+    # update-readme-stackoverflow-activity: 
+    #     name: Update this repo's README with latest stackoverflow activity
+    #     runs-on: ubuntu-latest
+    #     steps: 
+    #         - uses: actions/checkout@v4
+    #         - uses: gautamkrishnar/blog-post-workflow@master
+    #           with: 
+    #             max_post_count: "5"
+    #             comment_tag_name: "STACKOVERFLOW"
+    #             commit_message: "Updated readme with the latest stackOverflow data"
+    #             feed_list: "https://stackoverflow.com/feeds/user/10239789"
+    #             filter_comments: "stackoverflow/Comment by $author/"
                 
                 
