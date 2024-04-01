@@ -41,7 +41,7 @@ And yes, I must confess, I'm a fan of the ~~controversial~~ delightful combinati
 ## Recent Posts
 <table>
   <tr><th>📄 Post</th><th>🏷️ Tags</th><th>📆 Date</th></tr>
-<!-- BLOG-POST-LIST:START --><tr><td>🔥 <a href='https://trebledj.me/posts/attack-of-the-zip/' target='_blank'>From Compression to Compromise: Unmasking Zip File Threats</a></td><td><a href='https://trebledj.github.io/tags/cybersec' target='_blank'>cybersec</a> 
+<!-- BLOG-POST-LIST:START --><tr><td>🔥 <a href='https://trebledj.me/posts/attack-of-the-zip/' target='_blank'>From Compression to Compromise: Unmasking Zip File Threats</a></td><td><a href='https://trebledj.github.io/tags/infosec' target='_blank'>infosec</a> 
 <a href='https://trebledj.github.io/tags/notes' target='_blank'>notes</a> 
 <a href='https://trebledj.github.io/tags/web' target='_blank'>web</a> 
 <a href='https://trebledj.github.io/tags/python' target='_blank'>python</a> 
