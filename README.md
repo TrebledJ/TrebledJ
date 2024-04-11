@@ -41,7 +41,7 @@ And yes, I must confess, I'm a fan of the ~~controversial~~ delightful combinati
 ## Recent Posts
 <table>
   <tr><th>📄 Post</th><th>🏷️ Tags</th><th>📆 Date</th></tr>
-<!-- BLOG-POST-LIST:START --><tr><td>🔥 <a href='https://trebledj.me/posts/linux-cheatsheet/' target='_blank'>Practical Linux Tricks for the Aspiring Programmer/Hacker</a></td><td><a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
+<!-- BLOG-POST-LIST:START --><tr><td>🔥 <a href='https://trebledj.me/posts/linux-cheatsheet/' target='_blank'>Practical Linux Tricks for the Aspiring Hacker</a></td><td><a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
 <a href='https://trebledj.github.io/tags/infosec' target='_blank'>infosec</a> 
 <a href='https://trebledj.github.io/tags/learning' target='_blank'>learning</a> 
 <a href='https://trebledj.github.io/tags/cheatsheet' target='_blank'>cheatsheet</a> 
