@@ -45,9 +45,9 @@ And yes, I must confess, I'm a fan of the ~~controversial~~ delightful combinati
 <a href='https://trebledj.github.io/tags/experience' target='_blank'>experience</a> 
 <a href='https://trebledj.github.io/tags/reflection' target='_blank'>reflection</a> 
 </td><td>2024-04-14</td></tr><tr><td>🚀 <a href='https://trebledj.me/posts/linux-cheatsheet/' target='_blank'>Practical Linux Tricks for the Aspiring Hacker</a></td><td><a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
+<a href='https://trebledj.github.io/tags/cheatsheet' target='_blank'>cheatsheet</a> 
 <a href='https://trebledj.github.io/tags/infosec' target='_blank'>infosec</a> 
 <a href='https://trebledj.github.io/tags/learning' target='_blank'>learning</a> 
-<a href='https://trebledj.github.io/tags/cheatsheet' target='_blank'>cheatsheet</a> 
 <a href='https://trebledj.github.io/tags/notes' target='_blank'>notes</a> 
 </td><td>2024-04-08</td></tr><tr><td>✨ <a href='https://trebledj.me/posts/im-a-certified-offensive-waterblower/' target='_blank'>I&#39;m now a Certified Offensive Waterblower!</a></td><td><a href='https://trebledj.github.io/tags/satire' target='_blank'>satire</a> 
 <a href='https://trebledj.github.io/tags/infosec' target='_blank'>infosec</a> 
