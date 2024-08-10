@@ -41,34 +41,32 @@ And yes, I must confess, I'm a fan of the ~~controversial~~ delightful combinati
 ## Recent Posts
 <table>
   <tr><th>📄 Post</th><th>🏷️ Tags</th><th>📆 Date</th></tr>
-<!-- BLOG-POST-LIST:START --><tr><td>🔥 <a href='https://trebledj.me/posts/optimising-web-icons-for-fun/' target='_blank'>Optimising Web Icons for Fun</a></td><td><a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
+<!-- BLOG-POST-LIST:START --><tr><td>🔥 <a href='https://trebledj.me/posts/automating-boolean-based-blind-sql-injection-with-python/' target='_blank'>Automating Boolean-Based Blind SQL Injection with Python</a></td><td><a href='https://trebledj.github.io/tags/infosec' target='_blank'>infosec</a> 
+<a href='https://trebledj.github.io/tags/sql' target='_blank'>sql</a> 
+<a href='https://trebledj.github.io/tags/python' target='_blank'>python</a> 
+<a href='https://trebledj.github.io/tags/web' target='_blank'>web</a> 
+<a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
+<a href='https://trebledj.github.io/tags/notes' target='_blank'>notes</a> 
+<a href='https://trebledj.github.io/tags/writeup' target='_blank'>writeup</a> 
+</td><td>2024-08-10</td></tr><tr><td>🚀 <a href='https://trebledj.me/posts/optimising-web-icons-for-fun/' target='_blank'>Optimising Web Icons for Fun</a></td><td><a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
 <a href='https://trebledj.github.io/tags/web' target='_blank'>web</a> 
 <a href='https://trebledj.github.io/tags/performance' target='_blank'>performance</a> 
 <a href='https://trebledj.github.io/tags/meta' target='_blank'>meta</a> 
 <a href='https://trebledj.github.io/tags/notes' target='_blank'>notes</a> 
 <a href='https://trebledj.github.io/tags/writeup' target='_blank'>writeup</a> 
-</td><td>2024-05-23</td></tr><tr><td>🚀 <a href='https://trebledj.me/posts/oscp/' target='_blank'>My OSCP Adventure — Lessons, Tips, and Thoughts</a></td><td><a href='https://trebledj.github.io/tags/infosec' target='_blank'>infosec</a> 
+</td><td>2024-05-23</td></tr><tr><td>✨ <a href='https://trebledj.me/posts/oscp/' target='_blank'>My OSCP Adventure — Lessons, Tips, and Thoughts</a></td><td><a href='https://trebledj.github.io/tags/infosec' target='_blank'>infosec</a> 
 <a href='https://trebledj.github.io/tags/experience' target='_blank'>experience</a> 
 <a href='https://trebledj.github.io/tags/reflection' target='_blank'>reflection</a> 
-</td><td>2024-04-14</td></tr><tr><td>✨ <a href='https://trebledj.me/posts/linux-cheatsheet/' target='_blank'>Practical Linux Tricks for the Aspiring Hacker</a></td><td><a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
+</td><td>2024-04-14</td></tr><tr><td>🎯 <a href='https://trebledj.me/posts/linux-cheatsheet/' target='_blank'>Practical Linux Tricks for the Aspiring Hacker</a></td><td><a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
 <a href='https://trebledj.github.io/tags/cheatsheet' target='_blank'>cheatsheet</a> 
 <a href='https://trebledj.github.io/tags/infosec' target='_blank'>infosec</a> 
 <a href='https://trebledj.github.io/tags/learning' target='_blank'>learning</a> 
 <a href='https://trebledj.github.io/tags/notes' target='_blank'>notes</a> 
-</td><td>2024-04-08</td></tr><tr><td>🎯 <a href='https://trebledj.me/posts/im-a-certified-offensive-waterblower/' target='_blank'>I&#39;m now a Certified Offensive Waterblower!</a></td><td><a href='https://trebledj.github.io/tags/satire' target='_blank'>satire</a> 
+</td><td>2024-04-08</td></tr><tr><td>⚡️ <a href='https://trebledj.me/posts/im-a-certified-offensive-waterblower/' target='_blank'>I&#39;m now a Certified Offensive Waterblower!</a></td><td><a href='https://trebledj.github.io/tags/satire' target='_blank'>satire</a> 
 <a href='https://trebledj.github.io/tags/infosec' target='_blank'>infosec</a> 
 <a href='https://trebledj.github.io/tags/experience' target='_blank'>experience</a> 
 <a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
-</td><td>2024-04-01</td></tr><tr><td>⚡️ <a href='https://trebledj.me/posts/attack-of-the-zip/' target='_blank'>From Compression to Compromise: Unmasking Zip File Threats</a></td><td><a href='https://trebledj.github.io/tags/infosec' target='_blank'>infosec</a> 
-<a href='https://trebledj.github.io/tags/notes' target='_blank'>notes</a> 
-<a href='https://trebledj.github.io/tags/web' target='_blank'>web</a> 
-<a href='https://trebledj.github.io/tags/python' target='_blank'>python</a> 
-<a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
-<a href='https://trebledj.github.io/tags/tutorial' target='_blank'>tutorial</a> 
-<a href='https://trebledj.github.io/tags/ctf' target='_blank'>ctf</a> 
-<a href='https://trebledj.github.io/tags/linux' target='_blank'>linux</a> 
-<a href='https://trebledj.github.io/tags/windows' target='_blank'>windows</a> 
-</td><td>2024-02-15</td></tr><!-- BLOG-POST-LIST:END -->
+</td><td>2024-04-01</td></tr><!-- BLOG-POST-LIST:END -->
 </table>
 
 
