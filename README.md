@@ -41,7 +41,7 @@ And yes, I must confess, I'm a fan of the ~~controversial~~ delightful combinati
 ## Recent Posts
 <table>
   <tr><th>📄 Post</th><th>🏷️ Tags</th><th>📆 Date</th></tr>
-<!-- BLOG-POST-LIST:START --><tr><td>🔥 <a href='https://trebledj.me/posts/automating-boolean-based-blind-sql-injection-with-python/' target='_blank'>Automating Boolean-Based Blind SQL Injection with Python</a></td><td><a href='https://trebledj.github.io/tags/infosec' target='_blank'>infosec</a> 
+<!-- BLOG-POST-LIST:START --><tr><td>🔥 <a href='https://trebledj.me/posts/automating-boolean-sql-injection-with-python/' target='_blank'>Automating Boolean-Based SQL Injection with Python</a></td><td><a href='https://trebledj.github.io/tags/infosec' target='_blank'>infosec</a> 
 <a href='https://trebledj.github.io/tags/sql' target='_blank'>sql</a> 
 <a href='https://trebledj.github.io/tags/python' target='_blank'>python</a> 
 <a href='https://trebledj.github.io/tags/web' target='_blank'>web</a> 
