@@ -54,13 +54,16 @@ And yes, I must confess, I'm a fan of the ~~controversial~~ delightful combinati
 <a href='https://trebledj.github.io/tags/python' target='_blank'>python</a> 
 <a href='https://trebledj.github.io/tags/web' target='_blank'>web</a> 
 <a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
+<a href='https://trebledj.github.io/tags/project' target='_blank'>project</a> 
 <a href='https://trebledj.github.io/tags/writeup' target='_blank'>writeup</a> 
+<a href='https://trebledj.github.io/tags/tutorial' target='_blank'>tutorial</a> 
 </td><td>2024-08-10</td></tr><tr><td>✨ <a href='https://trebledj.me/posts/optimising-web-icons-for-fun/' target='_blank'>Optimising Web Icons for Fun</a></td><td><a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
 <a href='https://trebledj.github.io/tags/web' target='_blank'>web</a> 
 <a href='https://trebledj.github.io/tags/performance' target='_blank'>performance</a> 
 <a href='https://trebledj.github.io/tags/meta' target='_blank'>meta</a> 
 <a href='https://trebledj.github.io/tags/notes' target='_blank'>notes</a> 
 <a href='https://trebledj.github.io/tags/writeup' target='_blank'>writeup</a> 
+<a href='https://trebledj.github.io/tags/project' target='_blank'>project</a> 
 </td><td>2024-05-23</td></tr><tr><td>🎯 <a href='https://trebledj.me/posts/oscp/' target='_blank'>My OSCP Adventure — Lessons, Tips, and Thoughts</a></td><td><a href='https://trebledj.github.io/tags/infosec' target='_blank'>infosec</a> 
 <a href='https://trebledj.github.io/tags/experience' target='_blank'>experience</a> 
 <a href='https://trebledj.github.io/tags/reflection' target='_blank'>reflection</a> 
