@@ -41,37 +41,35 @@ And yes, I must confess, I'm a fan of the ~~controversial~~ delightful combinati
 ## Recent Posts
 <table>
   <tr><th>📄 Post</th><th>🏷️ Tags</th><th>📆 Date</th></tr>
-<!-- BLOG-POST-LIST:START --><tr><td>🔥 <a href='https://trebledj.me/posts/boomlang-blue-team-strikes-back-et-cvss-and-dllmodules/' target='_blank'>5 Weekend Reads You Missed: BOOMlang v2, Blue Team Strikes Back, ET, CVSS 4.1, and DLLModules</a></td><td><a href='https://trebledj.github.io/tags/satire' target='_blank'>satire</a> 
+<!-- BLOG-POST-LIST:START --><tr><td>🔥 <a href='https://trebledj.me/posts/output-invariant-prompt-injection/' target='_blank'>Output-Invariant and Time-Based Testing – Practical Techniques for Black-Box Enumeration of LLMs</a></td><td><a href='https://trebledj.github.io/tags/infosec' target='_blank'>infosec</a> 
+<a href='https://trebledj.github.io/tags/ai' target='_blank'>ai</a> 
+<a href='https://trebledj.github.io/tags/notes' target='_blank'>notes</a> 
+<a href='https://trebledj.github.io/tags/pentesting' target='_blank'>pentesting</a> 
+<a href='https://trebledj.github.io/tags/redteam' target='_blank'>redteam</a> 
+<a href='https://trebledj.github.io/tags/writeup' target='_blank'>writeup</a> 
+</td><td>2025-05-09</td></tr><tr><td>🚀 <a href='https://trebledj.me/posts/boomlang-blue-team-strikes-back-et-cvss-and-dllmodules/' target='_blank'>5 Weekend Reads You Missed: BOOMlang v2, Blue Team Strikes Back, ET, CVSS 4.1, and DLLModules</a></td><td><a href='https://trebledj.github.io/tags/satire' target='_blank'>satire</a> 
 <a href='https://trebledj.github.io/tags/infosec' target='_blank'>infosec</a> 
 <a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
 <a href='https://trebledj.github.io/tags/pentesting' target='_blank'>pentesting</a> 
 <a href='https://trebledj.github.io/tags/programming-languages' target='_blank'>programming-languages</a> 
 <a href='https://trebledj.github.io/tags/windows' target='_blank'>windows</a> 
-</td><td>2025-04-01</td></tr><tr><td>🚀 <a href='https://trebledj.me/posts/delay-and-interactive-pause-in-multithreaded-python/' target='_blank'>Delay and Interactive Pause in Multi-Threaded Python</a></td><td><a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
+</td><td>2025-04-01</td></tr><tr><td>✨ <a href='https://trebledj.me/posts/delay-and-interactive-pause-in-multithreaded-python/' target='_blank'>Delay and Interactive Pause in Multi-Threaded Python</a></td><td><a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
 <a href='https://trebledj.github.io/tags/python' target='_blank'>python</a> 
 <a href='https://trebledj.github.io/tags/tutorial' target='_blank'>tutorial</a> 
 <a href='https://trebledj.github.io/tags/infosec' target='_blank'>infosec</a> 
 <a href='https://trebledj.github.io/tags/pentesting' target='_blank'>pentesting</a> 
-</td><td>2025-03-10</td></tr><tr><td>✨ <a href='https://trebledj.me/posts/twelve-days-to-secure-your-systems/' target='_blank'>12 Days of Christmas – Reflections from a Pentester</a></td><td><a href='https://trebledj.github.io/tags/infosec' target='_blank'>infosec</a> 
+</td><td>2025-03-10</td></tr><tr><td>🎯 <a href='https://trebledj.me/posts/twelve-days-to-secure-your-systems/' target='_blank'>12 Days of Christmas – Reflections from a Pentester</a></td><td><a href='https://trebledj.github.io/tags/infosec' target='_blank'>infosec</a> 
 <a href='https://trebledj.github.io/tags/software-engineering' target='_blank'>software-engineering</a> 
 <a href='https://trebledj.github.io/tags/web' target='_blank'>web</a> 
 <a href='https://trebledj.github.io/tags/reflection' target='_blank'>reflection</a> 
 <a href='https://trebledj.github.io/tags/pentesting' target='_blank'>pentesting</a> 
-</td><td>2024-12-25</td></tr><tr><td>🎯 <a href='https://trebledj.me/posts/prism-plugins-in-node/' target='_blank'>How to Use PrismJS Plugins with NodeJS and MarkdownIt</a></td><td><a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
+</td><td>2024-12-25</td></tr><tr><td>⚡️ <a href='https://trebledj.me/posts/prism-plugins-in-node/' target='_blank'>How to Use PrismJS Plugins with NodeJS and MarkdownIt</a></td><td><a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
 <a href='https://trebledj.github.io/tags/web' target='_blank'>web</a> 
 <a href='https://trebledj.github.io/tags/js' target='_blank'>js</a> 
 <a href='https://trebledj.github.io/tags/tutorial' target='_blank'>tutorial</a> 
 <a href='https://trebledj.github.io/tags/meta' target='_blank'>meta</a> 
 <a href='https://trebledj.github.io/tags/performance' target='_blank'>performance</a> 
-</td><td>2024-11-03</td></tr><tr><td>⚡️ <a href='https://trebledj.me/posts/abusing-server-side-rendering-in-drogon/' target='_blank'>Dynamic Views Loading – Abusing Server Side Rendering in Drogon</a></td><td><a href='https://trebledj.github.io/tags/infosec' target='_blank'>infosec</a> 
-<a href='https://trebledj.github.io/tags/cpp' target='_blank'>cpp</a> 
-<a href='https://trebledj.github.io/tags/ctf' target='_blank'>ctf</a> 
-<a href='https://trebledj.github.io/tags/web' target='_blank'>web</a> 
-<a href='https://trebledj.github.io/tags/programming' target='_blank'>programming</a> 
-<a href='https://trebledj.github.io/tags/linux' target='_blank'>linux</a> 
-<a href='https://trebledj.github.io/tags/notes' target='_blank'>notes</a> 
-<a href='https://trebledj.github.io/tags/writeup' target='_blank'>writeup</a> 
-</td><td>2024-08-18</td></tr><!-- BLOG-POST-LIST:END -->
+</td><td>2024-11-03</td></tr><!-- BLOG-POST-LIST:END -->
 </table>
 
 
