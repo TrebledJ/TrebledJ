@@ -42,13 +42,13 @@ And yes, I must confess, I'm a fan of the ~~controversial~~ delightful combinati
 <table>
   <tr><th>📄 Post</th><th>🏷️ Tags</th><th>📆 Date</th></tr>
 <!-- BLOG-POST-LIST:START --><tr><td>🔥 <a href='https://trebledj.me/posts/reversing-a-siemens-plc-for-funs-and-vulns/' target='_blank'>Reverse Engineering a Siemens Programmable Logic Controller for Funs and Vulns &lpar;CVE-2024-54089, CVE-2024-54090 &amp;amp; CVE-2025-40757&rpar;</a></td><td><a href='https://trebledj.github.io/tags/infosec' target='_blank'>infosec</a> 
-<a href='https://trebledj.github.io/tags/reverse' target='_blank'>reverse</a> 
+<a href='https://trebledj.github.io/tags/research' target='_blank'>research</a> 
 <a href='https://trebledj.github.io/tags/embedded' target='_blank'>embedded</a> 
 <a href='https://trebledj.github.io/tags/pentesting' target='_blank'>pentesting</a> 
+<a href='https://trebledj.github.io/tags/reverse' target='_blank'>reverse</a> 
 <a href='https://trebledj.github.io/tags/c' target='_blank'>c</a> 
 <a href='https://trebledj.github.io/tags/cpp' target='_blank'>cpp</a> 
 <a href='https://trebledj.github.io/tags/writeup' target='_blank'>writeup</a> 
-<a href='https://trebledj.github.io/tags/research' target='_blank'>research</a> 
 </td><td>2025-09-12</td></tr><tr><td>🚀 <a href='https://trebledj.me/posts/output-invariant-prompt-injection/' target='_blank'>Output-Invariant and Time-Based Testing – Practical Techniques for Black-Box Enumeration of LLMs</a></td><td><a href='https://trebledj.github.io/tags/infosec' target='_blank'>infosec</a> 
 <a href='https://trebledj.github.io/tags/ai' target='_blank'>ai</a> 
 <a href='https://trebledj.github.io/tags/notes' target='_blank'>notes</a> 
