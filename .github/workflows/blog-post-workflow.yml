@@ -13,9 +13,9 @@ jobs:
             - uses: gautamkrishnar/blog-post-workflow@master
               with: 
                 max_post_count: "5"
-                feed_list: "https://trebledj.github.io/feeds/recent.xml"
+                feed_list: "https://trebledj.me/feeds/recent.xml"
                 template: "<tr><td>$emojiKey(🔥,🚀,✨,🎯,⚡️) <a href='$url' target='_blank'>$title</a></td><td>$categories</td><td>$date</td></tr>"
-                categories_template: "<a href='https://trebledj.github.io/tags/$category' target='_blank'>$category</a> $newline"
+                categories_template: "<a href='https://trebledj.me/tags/$category' target='_blank'>$category</a> $newline"
                 date_format: "yyyy-mm-dd"
                 
     # update-readme-stackoverflow-activity: 
