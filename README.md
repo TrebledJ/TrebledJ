@@ -41,25 +41,27 @@ And yes, I must confess, I'm a fan of the ~~controversial~~ delightful combinati
 ## Recent Posts
 <table>
   <tr><th>📄 Post</th><th>🏷️ Tags</th><th>📆 Date</th></tr>
-<!-- BLOG-POST-LIST:START --><tr><td>🔥 <a href='https://trebledj.me/posts/sharing-is-caring-arbitrary-code-execution-for-breakfast/' target='_blank'>Sharing is Caring: Arbitrary Code Execution for Breakfast</a></td><td><a href='https://trebledj.me/tags/infosec' target='_blank'>infosec</a> 
+<!-- BLOG-POST-LIST:START --><tr><td>🔥 <a href='https://trebledj.me/posts/arbitrary-code-execution-for-breakfast/' target='_blank'>Sharing is Caring: Arbitrary Code Execution for Breakfast</a></td><td><a href='https://trebledj.me/tags/ctf' target='_blank'>ctf</a> 
 <a href='https://trebledj.me/tags/pwn' target='_blank'>pwn</a> 
-<a href='https://trebledj.me/tags/ctf' target='_blank'>ctf</a> 
 <a href='https://trebledj.me/tags/cpp' target='_blank'>cpp</a> 
-<a href='https://trebledj.me/tags/research' target='_blank'>research</a> 
+<a href='https://trebledj.me/tags/infosec' target='_blank'>infosec</a> 
 <a href='https://trebledj.me/tags/writeup' target='_blank'>writeup</a> 
-</td><td>2025-10-03</td></tr><tr><td>🚀 <a href='https://trebledj.me/posts/reversing-a-siemens-plc-for-funs-and-vulns/' target='_blank'>Reverse Engineering a Siemens Programmable Logic Controller for Funs and Vulns &lpar;CVE-2024-54089, CVE-2024-54090 &amp;amp; CVE-2025-40757&rpar;</a></td><td><a href='https://trebledj.me/tags/infosec' target='_blank'>infosec</a> 
 <a href='https://trebledj.me/tags/research' target='_blank'>research</a> 
+</td><td>2025-10-03</td></tr><tr><td>🚀 <a href='https://trebledj.me/posts/reversing-a-siemens-plc-for-funs-and-vulns/' target='_blank'>Reverse Engineering a Siemens Programmable Logic Controller for Funs and Vulns &lpar;CVE-2024-54089, CVE-2024-54090 &amp;amp; CVE-2025-40757&rpar;</a></td><td><a href='https://trebledj.me/tags/research' target='_blank'>research</a> 
 <a href='https://trebledj.me/tags/embedded' target='_blank'>embedded</a> 
-<a href='https://trebledj.me/tags/pentesting' target='_blank'>pentesting</a> 
 <a href='https://trebledj.me/tags/reverse' target='_blank'>reverse</a> 
-<a href='https://trebledj.me/tags/c' target='_blank'>c</a> 
+<a href='https://trebledj.me/tags/cryptography' target='_blank'>cryptography</a> 
 <a href='https://trebledj.me/tags/cpp' target='_blank'>cpp</a> 
+<a href='https://trebledj.me/tags/pentesting' target='_blank'>pentesting</a> 
+<a href='https://trebledj.me/tags/infosec' target='_blank'>infosec</a> 
 <a href='https://trebledj.me/tags/writeup' target='_blank'>writeup</a> 
+<a href='https://trebledj.me/tags/cve' target='_blank'>cve</a> 
 </td><td>2025-09-12</td></tr><tr><td>✨ <a href='https://trebledj.me/posts/output-invariant-prompt-injection/' target='_blank'>Output-Invariant and Time-Based Testing – Practical Techniques for Black-Box Enumeration of LLMs</a></td><td><a href='https://trebledj.me/tags/infosec' target='_blank'>infosec</a> 
 <a href='https://trebledj.me/tags/ai' target='_blank'>ai</a> 
 <a href='https://trebledj.me/tags/notes' target='_blank'>notes</a> 
 <a href='https://trebledj.me/tags/pentesting' target='_blank'>pentesting</a> 
 <a href='https://trebledj.me/tags/redteam' target='_blank'>redteam</a> 
+<a href='https://trebledj.me/tags/research' target='_blank'>research</a> 
 <a href='https://trebledj.me/tags/writeup' target='_blank'>writeup</a> 
 </td><td>2025-05-09</td></tr><tr><td>🎯 <a href='https://trebledj.me/posts/boomlang-blue-team-strikes-back-et-cvss-and-dllmodules/' target='_blank'>5 Weekend Reads You Missed: BOOMlang v2, Blue Team Strikes Back, ET, CVSS 4.1, and DLLModules</a></td><td><a href='https://trebledj.me/tags/satire' target='_blank'>satire</a> 
 <a href='https://trebledj.me/tags/infosec' target='_blank'>infosec</a> 
