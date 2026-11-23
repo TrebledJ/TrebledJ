@@ -41,27 +41,34 @@ And yes, I must confess, I'm a fan of the ~~controversial~~ delightful combinati
 ## Recent Posts
 <table>
   <tr><th>📄 Post</th><th>🏷️ Tags</th><th>📆 Date</th></tr>
-<!-- BLOG-POST-LIST:START --><tr><td>🔥 <a href='https://trebledj.me/posts/insecure-deserialization-and-confusion-attacks-in-cpp/' target='_blank'>Sharing is Caring: Insecure Deserialization of Shared References in C++</a></td><td><a href='https://trebledj.me/tags/cve' target='_blank'>cve</a> 
+<!-- BLOG-POST-LIST:START --><tr><td>🔥 <a href='https://trebledj.me/posts/thank-you-next-part-1/' target='_blank'>Thank You Next Part 1: I&#39;m so Grateful for the XSS</a></td><td><a href='https://trebledj.me/tags/research' target='_blank'>research</a> 
+<a href='https://trebledj.me/tags/web' target='_blank'>web</a> 
+<a href='https://trebledj.me/tags/js' target='_blank'>js</a> 
+<a href='https://trebledj.me/tags/pentesting' target='_blank'>pentesting</a> 
+<a href='https://trebledj.me/tags/infosec' target='_blank'>infosec</a> 
+<a href='https://trebledj.me/tags/writeup' target='_blank'>writeup</a> 
+<a href='https://trebledj.me/tags/cve' target='_blank'>cve</a> 
+</td><td>2026-11-23</td></tr><tr><td>🚀 <a href='https://trebledj.me/posts/insecure-deserialization-and-confusion-attacks-in-cpp/' target='_blank'>Sharing is Caring: Insecure Deserialization of Shared References in C++</a></td><td><a href='https://trebledj.me/tags/cve' target='_blank'>cve</a> 
 <a href='https://trebledj.me/tags/pwn' target='_blank'>pwn</a> 
 <a href='https://trebledj.me/tags/research' target='_blank'>research</a> 
 <a href='https://trebledj.me/tags/cpp' target='_blank'>cpp</a> 
 <a href='https://trebledj.me/tags/infosec' target='_blank'>infosec</a> 
 <a href='https://trebledj.me/tags/writeup' target='_blank'>writeup</a> 
 <a href='https://trebledj.me/tags/types' target='_blank'>types</a> 
-</td><td>2026-06-24</td></tr><tr><td>🚀 <a href='https://trebledj.me/posts/oracle-opera-vulns/' target='_blank'>When Hospitality Software is Too Hospitable &lpar;CVE-2026-21966, CVE-2026-21967&rpar;</a></td><td><a href='https://trebledj.me/tags/research' target='_blank'>research</a> 
+</td><td>2026-06-24</td></tr><tr><td>✨ <a href='https://trebledj.me/posts/oracle-opera-vulns/' target='_blank'>When Hospitality Software is Too Hospitable &lpar;CVE-2026-21966, CVE-2026-21967&rpar;</a></td><td><a href='https://trebledj.me/tags/research' target='_blank'>research</a> 
 <a href='https://trebledj.me/tags/web' target='_blank'>web</a> 
 <a href='https://trebledj.me/tags/java' target='_blank'>java</a> 
 <a href='https://trebledj.me/tags/pentesting' target='_blank'>pentesting</a> 
 <a href='https://trebledj.me/tags/infosec' target='_blank'>infosec</a> 
 <a href='https://trebledj.me/tags/writeup' target='_blank'>writeup</a> 
 <a href='https://trebledj.me/tags/cve' target='_blank'>cve</a> 
-</td><td>2026-02-13</td></tr><tr><td>✨ <a href='https://trebledj.me/posts/arbitrary-code-execution-for-breakfast/' target='_blank'>Sharing is Caring: Arbitrary Code Execution for Breakfast</a></td><td><a href='https://trebledj.me/tags/ctf' target='_blank'>ctf</a> 
+</td><td>2026-02-13</td></tr><tr><td>🎯 <a href='https://trebledj.me/posts/arbitrary-code-execution-for-breakfast/' target='_blank'>Sharing is Caring: Arbitrary Code Execution for Breakfast</a></td><td><a href='https://trebledj.me/tags/ctf' target='_blank'>ctf</a> 
 <a href='https://trebledj.me/tags/pwn' target='_blank'>pwn</a> 
 <a href='https://trebledj.me/tags/cpp' target='_blank'>cpp</a> 
 <a href='https://trebledj.me/tags/infosec' target='_blank'>infosec</a> 
 <a href='https://trebledj.me/tags/writeup' target='_blank'>writeup</a> 
 <a href='https://trebledj.me/tags/research' target='_blank'>research</a> 
-</td><td>2025-10-03</td></tr><tr><td>🎯 <a href='https://trebledj.me/posts/reversing-a-siemens-plc-for-funs-and-vulns/' target='_blank'>Reverse Engineering a Siemens Programmable Logic Controller for Funs and Vulns &lpar;CVE-2024-54089, CVE-2024-54090 &amp;amp; CVE-2025-40757&rpar;</a></td><td><a href='https://trebledj.me/tags/research' target='_blank'>research</a> 
+</td><td>2025-10-03</td></tr><tr><td>⚡️ <a href='https://trebledj.me/posts/reversing-a-siemens-plc-for-funs-and-vulns/' target='_blank'>Reverse Engineering a Siemens Programmable Logic Controller for Funs and Vulns &lpar;CVE-2024-54089, CVE-2024-54090 &amp;amp; CVE-2025-40757&rpar;</a></td><td><a href='https://trebledj.me/tags/research' target='_blank'>research</a> 
 <a href='https://trebledj.me/tags/embedded' target='_blank'>embedded</a> 
 <a href='https://trebledj.me/tags/reverse' target='_blank'>reverse</a> 
 <a href='https://trebledj.me/tags/cryptography' target='_blank'>cryptography</a> 
@@ -70,14 +77,7 @@ And yes, I must confess, I'm a fan of the ~~controversial~~ delightful combinati
 <a href='https://trebledj.me/tags/infosec' target='_blank'>infosec</a> 
 <a href='https://trebledj.me/tags/writeup' target='_blank'>writeup</a> 
 <a href='https://trebledj.me/tags/cve' target='_blank'>cve</a> 
-</td><td>2025-09-12</td></tr><tr><td>⚡️ <a href='https://trebledj.me/posts/output-invariant-prompt-injection/' target='_blank'>Output-Invariant and Time-Based Testing – Practical Techniques for Black-Box Enumeration of LLMs</a></td><td><a href='https://trebledj.me/tags/infosec' target='_blank'>infosec</a> 
-<a href='https://trebledj.me/tags/ai' target='_blank'>ai</a> 
-<a href='https://trebledj.me/tags/notes' target='_blank'>notes</a> 
-<a href='https://trebledj.me/tags/pentesting' target='_blank'>pentesting</a> 
-<a href='https://trebledj.me/tags/redteam' target='_blank'>redteam</a> 
-<a href='https://trebledj.me/tags/research' target='_blank'>research</a> 
-<a href='https://trebledj.me/tags/writeup' target='_blank'>writeup</a> 
-</td><td>2025-05-09</td></tr><!-- BLOG-POST-LIST:END -->
+</td><td>2025-09-12</td></tr><!-- BLOG-POST-LIST:END -->
 </table>
 
 
